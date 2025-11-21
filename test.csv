@@ -1,0 +1,559 @@
+Name,Age,2024 Net Worth,Industry,Source of Wealth,Title,Organization,Self-Made,Self-Made Score,Philanthropy Score,Residence,Citizenship,Gender,Marital Status,Children,Education
+Kiril Domuschiev,54.0,$2.1B,Diversified,"Animal health, investments","industrialist, entrepreneur and owner",PFC Ludogorets Razgrad,True,,,"London, United Kingdom",Bulgaria,M,Married,,"Master of Science, Technical University of Sofia"
+Byron Trott,65.0,$3.1B,Finance & Investments,Investments,"founder, chairman and co-CEO",BDT & MSD Partners,True,9.0,,"Winnetka, Illinois",United States,M,Married,,"Bachelor of Arts, University of Chicago, Master of Business Administration, University of Chicago Booth School of Business"
+Luciano Hang,61.0,$2.3B,Fashion & Retail,Department stores,Co-founder,Havan department store chain,True,,,"Brusque, Brazil",Brazil,M,Married,3.0,
+Matthias Reinhart,64.0,$3.6B,Finance & Investments,Financial services,CEO,VZ Holding,True,,,"Zurich, Switzerland",Switzerland,M,,,"Bachelor of Science, University of St. Gallen"
+Maria Fernanda Amorim & family,89.0,$5.7B,Diversified,"Energy, investments",Heir,Corticeira Amorim,False,,,"Grijo, Portugal",Portugal,F,Widowed,3.0,
+Weng Xianding,62.0,$2.2B,Healthcare,Medical devices,chairman and majority shareholder,Shenzhen,True,,,"Shenzhen, China",China,M,,,
+Noam Gottesman,62.0,$2.3B,Finance & Investments,Hedge funds,Chief Executive Officer,TOMS Capital,True,7.0,3.0,"New York, New York",United States,M,Married,4.0,"Bachelor of Arts/Science, Columbia University"
+Virendra Mhaiskar,52.0,$1.2B,Construction & Engineering,Infrastructure,"chairman , managing director","IRB Infrastructure Developers,",False,,,"Mumbai, India",India,M,Married,1.0,"Diploma, University of Mumbai"
+Yang Tingdong,63.0,$1.1B,Food & Beverage,Brewery,Chinese actor,,True,,,"Suqian, China",China,M,,,"Bachelor of Arts/Science, Beijing Film Academy"
+Tim Cook,63.0,$2B,Technology,Apple,CEO,Apple,True,,,"Cupertino, California",United States,M,,,"Master of Business Administration, Fuqua School of Business"
+Xiang Wenbo,61.0,$1.1B,Manufacturing,Manufacturing,vice chairman,Sany Group,True,,,"Changsha, China",China,M,Married,1.0,"Master of Science, Dalian University of Technology"
+Stephen Smith,72.0,$4.4B,Finance & Investments,Finance and investments,Founder and Executive Chairman,First National Financial,True,,,"Toronto, Canada",Canada,M,Married,3.0,"Bachelor of Science in Engineering, Queens University"
+Robert Kuok,100.0,$11.4B,Diversified,"Palm oil, shipping, property",Owner,Kuok Group,True,,,"Hong Kong, Hong Kong",Malaysia,M,Married,8.0,"Bachelor of Arts/Science, Raffles College"
+Christiane Schoeller,,$3.7B,Media & Entertainment,Publishing,heir,Holtzbrinck Publishing Group,False,,,,Germany,F,,,
+Friede Springer,81.0,$3B,Media & Entertainment,Publishing,publisher and owner,Axel Springer SE media conglomerate,False,,,"Berlin, Germany",Germany,F,Widowed,,
+Kirill Minovalov,52.0,$1.2B,Diversified,"Agriculture, finance",presdient,AVANGARD JSB,True,,,"Moscow, Russia",Russia,M,Single,2.0,"Master of Science in Engineering, Moscow State University of Railway Engineering"
+Margaretta Taylor,81.0,$4B,Media & Entertainment,"Media, automotive",Heir,Cox Enterprises,False,1.0,2.0,"Southampton, New York",United States,F,,2.0,"Bachelor of Arts/Science, Finch College"
+Sanjiv Goenka,63.0,$3.4B,Diversified,Diversified,"Businessman, founder and chairman",RPSG Group,False,,,"Kolkata, India",India,M,Married,2.0,"Bachelor of Arts/Science, Calcutta University"
+Agustín Coppel Luken,62.0,$1.6B,Fashion & Retail,Diversified,CEO,Coppel,False,,,"Culiacan, Mexico",Mexico,M,Married,,"Bachelor of Science, Instituto Tecnológico y de Estudios Superiores de Monterrey"
+Basudeo Singh,83.0,$2.4B,Healthcare,Pharmaceuticals,executive chairman,Alkem Laboratories,True,,,"Mumbai, India",India,M,Married,3.0,"Master of Arts, Patna University"
+Nikolai Buinov,56.0,$3.3B,Energy,"Oil, gas","businessman and entrepreneur, co-founder, INK's chairman of the board",Irkutsk Oil Company,True,,,"Irkutsk, Russia",Russia,M,Married,2.0,"Master of Science in Engineering, Leningrad Institute of Railway Engineers"
+Joe Lacob,68.0,$2.1B,Sports,Golden State Warriors,"Executive chairman , majority owner","Golden State Warriors, Golden State Warriors of the National Basketball Association and Golden State Valkyries of the Women's National Basketball Association",True,,,"Atherton, California",United States,M,Married,4.0,"Master of Business Administration, Stanford University; Masters of Public Health, UCLA; Bachelor of Arts/Science, University of California, Irvine"
+Radovan Vitek,52.0,$6.7B,Real Estate,Real estate,Investor,,True,,,"Crans Montana, Switzerland",Czech Republic,M,Married,4.0,"Law Degree, University of West Bohemia"
+Bianca Rinehart,47.0,$2.1B,Metals & Mining,Mining,"trusty, daughter",Hope Margaret Hancock Trust,False,,,"Brisbane, Australia",Australia,F,Married,2.0,
+Lorinc Meszaros,58.0,$1.7B,Diversified,Diversified,"businessman, former, politician",Mayor of the Hungarian village Felcsút,True,,,"Felcsút, Hungary",Hungary,M,Married,3.0,
+Beatriz Davila de Santo Domingo,85.0,$3.8B,Food & Beverage,Beer,Heir,Santo Domingo Group,False,,,Bermuda,Colombia,F,Widowed,2.0,
+Kelcy Warren,68.0,$6B,Energy,Pipelines,Executive Chairman,Energy Transfer LP,True,9.0,2.0,"Dallas, Texas",United States,M,Married,1.0,"Bachelor of Arts/Science, University of Texas Arlington"
+Stephan Schmidheiny,76.0,$2.1B,Finance & Investments,Investments,"businessman, industrialist, philanthropist, prominent member",Schmidheiny family,False,,,"Hurden, Switzerland",Switzerland,M,Married,2.0,"Doctorate, University of Zurich"
+Zhu Baoguo & family,61.0,$4.6B,Healthcare,Pharmaceuticals,Chairman,Joincare Pharmaceutical Group Industry,True,,,"Shenzhen, China",China,M,Married,,"Bachelor of Arts/Science, Henan Normal University"
+Lau Cho Kun,88.0,$1.5B,Diversified,"Palm oil, property",shareholder,,False,,,"Tawau, Sabah, Malaysia",Malaysia,M,Married,1.0,
+Alain Bouchard,75.0,$8B,Fashion & Retail,Convinience stores,Chairman and CEO,Alimentation Couche Tard Inc. Cl A,True,,,"Montreal, Canada",Canada,M,Married,4.0,
+Christian Chabot,,$1.3B,Technology,Software,"Chairman, Co-founder",Tableau Software,True,,,"Seattle, Washington",United States,M,,,"Bachelor of Science, Stanford University, Master of Business Administration, Stanford University"
+Luis Carlos Sarmiento,91.0,$7.3B,Finance & Investments,Banking,Banker,,True,,,"Bogota, Colombia",Colombia,M,Married,5.0,"Bachelor of Arts/Science, National University of Colombia"
+Horst Julius Pudwill,79.0,$5.4B,Manufacturing,Manufacturing,cofounder and chairman,Techtronic Industries,True,,,"Hong Kong, Hong Kong",Germany,M,Married,1.0,"Master of Science in Engineering, Technical College in Flensburg"
+Frank McCourt,70.0,$1.4B,Sports,baseball,"teacher ,writer",,True,,,"Wellington, Florida",United States,M,,,"Bachelor of Science, Georgetown University"
+Yang Weidong & family,55.0,$2.4B,Manufacturing,Chemicals,"entrepreneur, CEO","Youku Tudou, AliMusic",True,,,"Jiaxing, China",China,M,Married,,"Bachelor of Science, Hohai University"
+Märta Schörling Andreen,39.0,$5.6B,Diversified,Investments,Board Member,Melker Schörling AB,False,,,"Stockholm, Sweden",Sweden,F,Married,2.0,"Master of Business Administration, Stockholm School of Economics"
+Safra Catz,62.0,$1.7B,Technology,Software,CEO,Oracle,True,6.0,,"Fort Lauderdale, Florida",United States,F,Married,2.0,"Doctor of Jurisprudence, University of Pennsylvania; Bachelor of Arts/Science, University of Pennsylvania, The Wharton School"
+Ivan Chrenko,56.0,$1.6B,Real Estate,Real estate,"businessman, chairman , majority owner",Slovak real estate development company HB Reavis.,True,,,"Bratislava, Slovakia",Slovakia,M,,,
+Gabriel Escarrer & family,89.0,$1.2B,Service,Hotels,"CEO, Chairman",Meliá Hotels International,True,,,"Palma de Majorca, Spain",Spain,M,Married,6.0,"Bachelor of Science, La Salle College Palma de Mallorca"
+Nihat Ozdemir,74.0,$1.9B,Diversified,Diversified,"owner, president","Limak holding, Turkish Football Federation",True,,,"Ankara, Turkey",Turkey,M,Widowed,2.0,"Bachelor of Science, Gazi University"
+Evan Spiegel,33.0,$3.1B,Technology,Snapchat,Co-founder,Snap,True,8.0,2.0,"Los Angeles, California",United States,M,Married,3.0,"Bachelor of Science, Stanford University"
+"Karl Scheufele, III. & family",85.0,$3.4B,Fashion & Retail,Jewelry,co-president,Chopard,True,,,"Geneva, Switzerland",Switzerland,M,Married,2.0,
+Gail Miller,80.0,$3.9B,Automotive,Car dealerships,businesswoman,Larry H. Miller Group,True,7.0,2.0,"Salt Lake City, Utah",United States,F,"Widowed, Remarried",5.0,"Drop Out, University of Utah"
+Tom Ford,62.0,$2.2B,Fashion & Retail,Fashion,Former Founder and Creative Director,Tom Ford,True,,,"Los Angeles, California",United States,M,Widowed,1.0,"Drop Out, New York University; Bachelor of Architecture, Parsons School of Design"
+Lutz Mario Helmig & family,77.0,$3.3B,Healthcare,Hospitals,"entrepreneurs, founder","European healthcare industry, Horus Finanzholding GmbH and Aton GmbH",True,,,"Grebenhain, Germany",Germany,M,Married,2.0,"Bachelor of Science, Albert-Ludwigs-University Freiburg"
+Tyler Perry,54.0,$1.4B,Media & Entertainment,"Movies, television",Director,Television,True,,,"Atlanta, Georgia",United States,M,In Relationship,1.0,
+Scott Shleifer,46.0,$2.5B,Finance & Investments,Private equity,Investor,Tiger Global Management,True,6.0,2.0,"New York, New York",United States,M,Married,,"Bachelor of Arts/Science, University of Pennsylvania, The Wharton School"
+Christoph Henkel,66.0,$1.8B,Fashion & Retail,Consumer goods,"vice chairman,",Henkel AG's,False,,,"London, United Kingdom",Germany,M,Married,,
+Bang Si-hyuk,51.0,$1.8B,Media & Entertainment,Entertainment,Chairperson,Hybe Corporation,True,,,"Seoul, South Korea",South Korea,M,Single,,"Bachelor of Arts, Seoul National University"
+Satish Reddy,56.0,$1.8B,Healthcare,Pharmaceuticals,chairman,pharma company,False,,,"Hyderabad, India",India,M,Married,2.0,"Bachelor of Science in Engineering, Osmania University; Master of Science, Purdue University"
+Jorge Moll Filho & family,79.0,$4.5B,Healthcare,Hospitals,Founder,Rede D'Or,True,,,"Rio de Janeiro, Brazil",Brazil,M,Married,5.0,"Masters of Public Health, Universidade Federal do Rio de Janeiro"
+Lance Gokongwei,56.0,$1.1B,Diversified,Diversified,President,JG Summit Holdings,False,,,"Manila, Philippines",Philippines,M,Married,,"Bachelor of Science, The Wharton School of the University of Pennsylvania; Bachelor of Science, University of Pennsylvania, School of Engineering and Applied Science"
+Fernando Chico Pardo,72.0,$3.3B,Service,Airport management,"businessperson, founded",Promecap SC and Acciones Y Asesoria Bursatil SA de CV Casa De Bolsa,True,,,"Mexico City, Mexico",Mexico,M,Married,3.0,"Master of Business Administration, Kellogg School of Management; Bachelor of Business Administration, Universidad Iberoamericana"
+Marco Squinzi,52.0,$1.1B,Construction & Engineering,Chemical products,"CEO, co-CEO and part-owner",Mapei,False,,,"Milan, Italy",Italy,M,,,"Bachelor of Science, Università degli Studi di Milano"
+Zhou Liangzhang & family,61.0,$1.1B,Manufacturing,Electrical Equipment,Chairman,Hexing Electrical,True,,,"Hangzhou, China",China,M,Married,,"Bachelor of Science, Harbin University of Commerce"
+Thomas Schmidheiny,78.0,$7B,Construction & Engineering,Cement,Chairman,Holcim,False,,,"Jona, Switzerland",Switzerland,M,Married,4.0,"Doctorate, Tufts University; Bachelor of Arts/Science, Zurich Polytechnic"
+Takaya Awata,62.0,$1.2B,Food & Beverage,Restaurants,President and CEO,"Tokyo-listed Toridoll Holdings,",True,,,"Tokyo, Japan",Japan,M,Married,,
+Rekha Jhunjhunwala,60.0,$8.5B,Finance & Investments,Investments,Investor,,False,,,"Mumbai, India",India,F,Widowed,3.0,"Bachelor of Commerce, University of Mumbai"
+Jiang Rensheng & family,70.0,$10.9B,Healthcare,Vaccines,Chairman,Chongqing Zhifei Biological Products,True,,,"Chongqing, China",China,M,Married,1.0,"Associate in Arts/Science, Guilin Medical University"
+Richard Kinder,79.0,$8.1B,Energy,Pipelines,Chairman and CEO,Kinder Morgan,True,8.0,3.0,"Houston, Texas",United States,M,Married,1.0,"Bachelor of Arts/Science, University of Missouri; Doctor of Jurisprudence, University of Missouri"
+Terence (Terry) Matthews,81.0,$1.6B,Telecom,Telecom,business magnate,Welsh-Canadian,True,,,"Ottawa, Canada",Canada,M,Married,4.0,"Doctorate, Carleton College; Bachelor of Arts/Science, University of Wales"
+Li Li,58.0,$1.9B,Healthcare,Healthcare,,,True,,,"Changsha, China",China,M,,,"Bachelor of Arts/Science, Xiangtan University, Graduate Degree, Peking University, Masters Business Admin, Hunan University"
+David Paul,57.0,$1.4B,Healthcare,Medical devices,Founder and Executive Chairman,Globus Medical,True,8.0,,"Audubon, Pennsylvania",United States,M,Married,,"Master of Science, Temple University; Bachelor of Arts/Science, University of Madras"
+Jaroslav Hascak & family,54.0,$1.8B,Finance & Investments,Investments,co-founder,Penta Investments,True,,,"Bratislava, Slovakia",Slovakia,M,Married,,"Master of Arts, Moscow State Institute of International Relations"
+Xu Xudong & family,54.0,$1.3B,Automotive,Auto parts,Supplier,,True,,,"Ningbo, China",China,M,,,
+Colin Huang,44.0,$38.9B,Technology,E-commerce,Former CEO,PDD Holdings,True,,,"Shanghai, China",China,M,,,"Master, University of Wisconsin Madison; Bachelor of Arts/Science, Zhejiang University"
+John Tu,82.0,$13.6B,Technology,Computer hardware,President,Kingston Technology Corporation,True,9.0,1.0,"Rolling Hills, California",United States,M,Married,2.0,"Bachelor of Arts/Science, Technische Universität Darmstadt"
+Stefan Quandt,57.0,$27.3B,Automotive,BMW,Co-owner,BMW,False,,,"Frankfurt, Germany",Germany,M,Married,1.0,"Associate in Arts/Science, Technical University of Karlsruhe"
+Mustafa Hamied,83.0,$1.4B,Healthcare,Pharmaceuticals,"non-executive, vice chairman",Mumbai generics maker Cipla,False,,,"Mumbai, India",India,M,Married,3.0,"Bachelor of Science, University of Mumbai"
+Joseph Bae,52.0,$2B,Finance & Investments,Private equity,"Co-Founder, co-chief",The Asian American Foundation,True,,,"New York, New York",United States,M,Married,,"Bachelor of Arts/Economics, Harvard University"
+Zhu Yiwen & family,60.0,$1B,Healthcare,Healthcare,founder,Hygeia Healthcare,True,,,"Shanghai, China",China,M,Married,,"Medical Doctor, Nanjing University of Chinese Medicine"
+Ami Luttwak,40.0,$1B,Technology,Security startup,,,True,,,"Tel Aviv, Israel",Israel,M,Married,4.0,"Master of Science, Hebrew University Jerusalem"
+Roman Avdeev,56.0,$1.2B,Finance & Investments,"Banking, development","Businessman, Investor",,True,,,"Moscow, Russia",Russia,M,Married,23.0,"Bachelor of Science in Engineering, Moscow International University of Business and Information Technologies"
+Walter Wang,59.0,$3.3B,Manufacturing,Manufacturing,"businessman, investor,phi lanthropist, co-founder, CEO","Walter and Shirley Wang Foundation, and JMM Foundation, a philanthropic organization, of JM Eagle",False,,,"Los Angeles, California",United States,M,Married,3.0,"Bachelor of Science, University of California, Berkeley"
+Edir Macedo & family,79.0,$2B,Media & Entertainment,broadcasting,"writer, billionaire businessman",Universal Church of the Kingdom of God,True,,,"Atlanta, Georgia",Brazil,M,Married,3.0,"Degrees in Theology, Evangelical Faculty of Theology United Seminary, Degrees in Theology, Faculty of Theological Education of the State of São Paulo, Doctorate in Theology and Christian Philosophy, Honorary Degree in Divinity, Master's Degree in Theological Sciences, Federation of Evangelical Religious Entities of Spain"
+Gao Dekang & family,72.0,$4.8B,Fashion & Retail,Apparel,Chairman and CEO,Bosideng International Holdings,True,,,"Changshu, China",China,M,Married,1.0,"Master of Business Administration, Phoenix International University"
+G.V. Prasad,63.0,$1.5B,Healthcare,Pharmaceuticals,"co-chairman ,managing director",Dr. Reddy's Laboratories.,False,,,"Hyderabad, India",India,M,Married,3.0,"Bachelor of Science in Engineering, Illinois Institute of Technology; Master, Purdue University"
+Sergei Katsiev,66.0,$1.9B,Fashion & Retail,"Retail, wholesale",businessman,,True,,,"Moscow, Russia",Russia,M,Married,2.0,"Master, Moscow Institute of International Relations"
+Mitchell Goldhar,62.0,$2.7B,Real Estate,Real estate,Owner,SmartCentres,True,,,"North York, Canada",Canada,M,Single,,"Bachelor of Arts/Science, York University"
+Tamara Gustavson,62.0,$7.8B,Service,Self storage,Shareholder,Public Storage,False,2.0,1.0,"Lexington, Kentucky",United States,F,Married,2.0,"Bachelor of Arts/Science, University of Southern California"
+Robyn Jones,61.0,$1B,Finance & Investments,Insurance,Co-founder,Goosehead Insurance,True,9.0,,"Fort Worth, Texas",United States,F,Married,6.0,
+Bent Jensen & Family,72.0,$2.4B,Manufacturing,electric systems,"businessman, owner and CEO",Linak,False,,,"Nordborg, Denmark",Denmark,M,,,"Bachelor of Arts/Science, University of Southern Denmark"
+Larry Tanenbaum,78.0,$2.5B,Sports,Sports,"businessman and chairman, owns a 25% stake","Maple Leaf Sports & Entertainment, MLSE",True,,,"Toronto, Canada",Canada,M,Married,3.0,"Bachelor of Science, Cornell University"
+Reinhold Schmieding,69.0,$7.3B,Healthcare,Medical devices,President and Founder,Arthrex Inc,True,8.0,,"Naples, Florida",United States,M,Married,2.0,"Bachelor of Arts/Science, Michigan State University"
+Mochtar Riady & family,94.0,$1.4B,Diversified,diversified,Chairperson,Lippo Group,True,,,"Jakarta, Indonesia",Indonesia,M,Married,6.0,"Bachelor of Science, Southeast University"
+Kim Jun-ki,79.0,$2B,Diversified,Diversified,businessperson,,True,,,"Seoul, South Korea",South Korea,M,Widowed,3.0,"Bachelor of Arts/Economics, Korea University"
+Charles Gibbon,74.0,$1.1B,Technology,Software,Director,WiseTech Global,True,,,"Bellawongarah, Australia",New Zealand,M,Married,,"M.Com, University of Canterbury; Bachelor of Science, University of Otago"
+Henry Laufer,78.0,$2.6B,Finance & Investments,Hedge funds,Former Vice President of Research,Renaissance Technologies,True,8.0,,"Lake Worth, Florida",United States,M,Married,,"Bachelor of Arts/Science, City College of New York; Doctorate, Princeton University"
+Kwee Liong Phing,66.0,$1.6B,Real Estate,Real estate,,,False,,,"Singapore, Singapore",Singapore,M,Married,4.0,"Bachelor of Arts/Science, Cornell University"
+Richard Livingstone,59.0,$4.7B,Real Estate,Real estate,Property Developer,London & Regional Properties,True,,,"London, United Kingdom",United Kingdom,M,,,
+Lin Li,60.0,$5.5B,Finance & Investments,Investments,Chairman,Liye Group,True,,,"Shenzhen, China",China,M,Married,1.0,"Chinese Academy of Social Sciences; Bachelor of Arts/Science, Hubei University of Technology"
+Mark Mateschitz,31.0,$39.6B,Food & Beverage,Red Bull,Owner,Red Bull GmbH,False,,,"Salzburg, Austria",Austria,M,Single,,"Bachelor of Science, Salzburg University of Applied Sciences"
+Fred Ehrsam,35.0,$3.1B,Finance & Investments,cryptocurrency exchange,Co-founder,Coinbase,True,8.0,,"San Francisco, California",United States,M,,,"Bachelor of Science, Duke Univeristy"
+Thaksin Shinawatra,74.0,$2.1B,Finance & Investments,Investments,"politician, businessman, Former Prime Minister","Shin Corporation, Thai Rak Thai Party, Thailand",True,,,"Dubai, United Arab Emirates",Thailand,M,Divorced,3.0,"Master of Science, Eastern Kentucky University"
+Sandro Veronesi & family,64.0,$2B,Fashion & Retail,Fashion,president,Calzedonia,True,,,"Milan, Italy",Italy,M,Married,,"Bachelor of Arts/Science, University of Verona"
+Zou Zhinong & family,56.0,$2.4B,Manufacturing,communication equipment,"Chairman, Chief Engineer, Co-Founder",Suzhou TFC Optical Communication Co Ltd,True,,,"Suzhou, China",China,M,Married,,
+Sergei Popov,52.0,$3B,Finance & Investments,Banking,"Businessman, Investor, founded",fund called Agat,True,,,"Moscow, Russia",Russia,M,Married,2.0,"Bachelor of Arts/Science, Ural State Technical University"
+Dmitry Kamenshchik,55.0,$2.2B,Service,Airport,Former Chairman and Owner,Moscow Domodedovo Airport,True,,,"Moscow, Russia",Russia,M,Single,,"Master of Arts/Science, Moscow State University"
+Edward Glazer,54.0,$1.7B,Sports,"Manchester United, Tampa Bay Buccaneers",Owner/Co-Chairman,Edward Glazer,False,,,"Beverly Hills, California",United States,M,,,"Bachelor of Science, Ithaca College"
+Antony Ressler,63.0,$10.5B,Finance & Investments,Finance,Co-founder,Apollo Global Management,True,8.0,2.0,"Los Angeles, California",United States,M,Married,3.0,"Master of Business Administration, Columbia Business School; Bachelor of Arts/Science, Georgetown University"
+Michael Kim,60.0,$9.7B,Finance & Investments,Private equity,Co-founder,MBK Partners,True,7.0,1.0,"Seoul, South Korea",United States,M,Married,2.0,"Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Haverford College"
+Kwee Liong Seen,71.0,$1.6B,Real Estate,Real estate,owner,array of luxury hotels and iconic office towers across Singapore,False,,,"Singapore, Singapore",Singapore,M,,,"Bachelor of Business Administration, Haas School of Business (University of California, Berkeley)"
+Roman Trotsenko,53.0,$2.8B,Logistics,"Transport, engineering, real estate","businessman, owner",Aeon Corporation,True,,,"Moscow, Russia",Russia,M,Married,2.0,"Master of Laws, Moscow State University"
+Justin Ishbia,46.0,$5.1B,Finance & Investments,Private equity,Founding Parter,Shore Capital Partners,False,,,"Chicago, Illinois",United States,M,Married,3.0,"Bachelor of Arts/Science, Michigan State University; Doctor of Jurisprudence, Vanderbilt University"
+Pawel Marchewka,,$2.1B,Technology,Videogames,"entrepreneur, founder and CEO","polish videogame company, Techland",True,,,,Poland,M,,,
+Bom Kim,45.0,$3.2B,Technology,Online retailing,"businessman, founder and chief executive officer",Coupang,True,8.0,,"Seoul, South Korea",United States,M,Married,1.0,"Bachelor of Arts/Science, Harvard University"
+Wang Wenjing,59.0,$2.4B,Technology,Business software,"businessman, chairman",Yonyou,True,,,"Beijing, China",China,M,Married,1.0,"Bachelor of Arts/Science, Jiangxi University of Finance & Economics"
+Kjell Inge Rokke,65.0,$4.6B,Logistics,"Shipping, seafood",Chairman,Aker ASA,True,,,"Vettre, Norway",Norway,M,Married,4.0,
+Yu Peidi,64.0,$1.3B,Real Estate,Real estate,Chairman,Greattown Holdings,True,,,"Shanghai, China",Hong Kong,M,Married,3.0,"EMBA, Royal Holloway University"
+Charles Schwab,86.0,$9.8B,Finance & Investments,Discount brokerage,Investor,Charles Schwab,True,8.0,3.0,"Woodside, California",United States,M,Married,5.0,"Master of Business Administration, Stanford Graduate School of Business; Bachelor of Arts/Science, Stanford University"
+John Krystynak,55.0,$1.1B,Media & Entertainment,mobile games,Co-Founder,AppLovin,True,,,"Incline Village, Nevada",United States,M,,,"Bachelor of Science, University of California, Santa Barbara"
+Qi Shi & family,54.0,$6.3B,Technology,Financial information,Chairman,East Money Information,True,,,"Shanghai, China",China,M,Married,,"Master of Business Administration, Fudan University; Bachelor of Arts/Science, Shanghai Jiaotong University"
+Daniel Gilbert,62.0,$26.2B,Finance & Investments,Quicken Loans,Founder and Chairman,Quicken Loans,True,8.0,2.0,"Franklin, Michigan",United States,M,Married,5.0,"Bachelor of Arts/Science, Michigan State University; Bachelor of Laws, Wayne State University"
+Michael Tojner,58.0,$1.3B,Manufacturing,"Batteries, investments",Founder,Montana Tech Components,True,,,"Vienna, Austria",Austria,M,,,"Master of Business Administration, University of Vienna; Master of Laws, University of Vienna"
+Scott Crabill,54.0,$3.3B,Finance & Investments,Private equity,managing partner,Thoma Bravo,True,8.0,1.0,"San Francisco, California",United States,M,Married,2.0,"Bachelor of Science, Stanford University"
+Shivratan Agarwal,72.0,$1.2B,Food & Beverage,Indian snacks,Founder and Chairman,Bikaji Foods International,True,,,"Bikaner, India",India,M,Married,1.0,
+Anne Werninghaus,38.0,$1.2B,Manufacturing,Industrial machinery,Founder,WEG,False,,,"Joinville, Brazil",Brazil,F,Married,2.0,"Tecnologo em Design de Moda, Universidade do Sul de Santa Catarina"
+Tang Ye,42.0,$1.2B,Technology,software,Chairperson,Shanghai Friendess Electronic Technology,True,,,"Shanghai, China",China,M,,,"Master of Engineering Management, Shanghai Jiao Tong University"
+Elaine Wynn,81.0,$2.1B,Gambling & Casinos,"Casinos, hotels",Board Member,"Wynn Las Vegas, LLC",True,8.0,3.0,"Las Vegas, Nevada",United States,F,Divorced,2.0,"Bachelor of Arts/Science, George Washington University"
+Wei Ying-Chiao,69.0,$1.8B,Food & Beverage,"Food, beverages",businessman,Taiwanese,True,,,"Taipei, Taiwan",Taiwan,M,Married,5.0,
+Gary Michelson,75.0,$1.8B,Healthcare,Medical patents,surgeon,,True,9.0,,"Los Angeles, California",United States,M,Married,1.0,"Medical Doctor, Hahnemann Medical College; Bachelor of Arts/Science, Temple University"
+Fiona Geminder,59.0,$2.4B,Manufacturing,Manufacturing,"businesswoman,  associated",Visy and Pact Group,False,,,"Melbourne, Australia",Australia,F,Married,4.0,"Bachelor of Arts/Science, Monash University; Bachelor of Laws, Monash University"
+Giammaria Giuliani,46.0,$1.5B,Healthcare,Pharmaceuticals,owner,Royalty Pharma,False,,,"Montagnola, Switzerland",Switzerland,M,Married,,
+Zakhar Smushkin,62.0,$2.1B,Diversified,"Pulp and paper, diversified",entrepreneur,Russian pulp and paper mills,True,,,"Saint Petersburg, Russia",Russia,M,Married,1.0,"Master of Science, Leningrad Technological Institute of Pulp and Paper Industry"
+Nikil Viswanathan,36.0,$1.5B,Technology,Blockchain technology,co-founder and CEO,"Alchemy, the blockchain company backed by Stanford University",True,,,"San Francisco, California",United States,M,Single,,"Bachelor of Arts/Science, Stanford; Master of Arts/Science, Stanford"
+Liang Feng,55.0,$1.8B,Manufacturing,Manufacturing,Professor,"Electrical and Systems Engineering, Materials Science and Engineering, Primary Quick Actions",True,,,"Shanghai, China",China,M,Married,,"Bachelor of Science, Hefei University of Technology, Master of Science, Hefei University of Technology, PhD, Shanghai Jiao Tong University"
+Jean-Pierre Cayard,81.0,$3B,Food & Beverage,Spirits,"businessman, inherited",spirits manufacturer La Martiniquaise,False,,,"Paris, France",France,M,Married,1.0,
+Terry Gou,73.0,$7.5B,Technology,Electronics,"Founder, Former Chairman and CEO",Foxconn,True,,,"Taipei, Taiwan",Taiwan,M,"Widowed, Remarried",5.0,Taipei University of Marine Technology
+Sabrina Benetton,50.0,$1.8B,Fashion & Retail,"Fashion retail, investments",founder,clothing retailer Benetton,False,,,"Treviso, Italy",Italy,F,Married,3.0,
+Jack Ma,59.0,$24.5B,Technology,E-commerce,Co-founder,Alibaba Group,True,,,"Hangzhou, China",China,M,Married,,"Bachelor of Arts/Science, Hangzhou Teacher's Institute"
+Eric Yuan & family,54.0,$4.2B,Technology,Zoom Video Communications,Founder and CEO,Zoom Video Communications,True,8.0,,"Santa Clara, California",United States,M,Married,3.0,"Master of Engineering Management, China University of Mining and Technology; Bachelor of Engineering, Shandong Institute of Business and Technology"
+Huang Jiangji,,$1.1B,Technology,smartphones,board member,"Inter Ikea Holding,",True,,,"Beijing, China",Hong Kong,M,,,"Bachelor of Science, Purdue University"
+Alexis Lê-Quôc,49.0,$2.9B,Technology,Cloud computing,Co-founder,Datadog,True,8.0,,"New York, New York",United States,M,Married,1.0,"Bachelor of Arts/Science, Ecole Centrale Paris"
+Kalanithi Maran,58.0,$3.1B,Media & Entertainment,Media,"media proprietor, chairman and founder, owns","Sun Group, television channels, newspapers, weeklies, FM radio stations",True,,,"Chennai, India",India,M,Married,1.0,"Master of Business Administration, University of Scranton"
+Richard Fortin,75.0,$2.1B,Fashion & Retail,Convinience stores,"businessman, and a director, co-founder and former chief financial officer and chairman",convenience store chain Couche-Tard,True,,,"Boucherville, Canada",Canada,M,,,"Bachelor of Science, Université Laval"
+"Rupert Johnson, Jr.",83.0,$4.4B,Finance & Investments,Franklin Templeton,Vice Chairman and Director,Franklin Resources,False,4.0,2.0,"Burlingame, California",United States,M,Married,,"Bachelor of Arts/Science, Washington & Lee University"
+Julio Bozano,88.0,$2.2B,Finance & Investments,Banking,Former Co-founder and President,Banco Bozano Simonsen,True,,,"Rio de Janeiro, Brazil",Brazil,M,Married,1.0,"Bachelor of Science, University of São Paulo"
+Vladimir Yevtushenkov,75.0,$1.7B,Telecom,"Telecom, investments","owner, former, сhairman",Sistema,True,,,"Moscow, Russia",Russia,M,Married,2.0,"Master of Science in Engineering, Mendeleyev Chemical Engin; Master of Economics, Moscow State University"
+Nicholas Howley,62.0,$1.1B,Manufacturing,Aerospace,Chairman,TransDigm Group,True,,,"Key West, Florida",United States,M,,,"Bachelor of Science, Drexel University, Master of Business Administration, Harvard University"
+Phil Ruffin,89.0,$2.7B,Diversified,"Casinos, real estate",Owner,Treasure Island Hotel and Casino and Circus Circus Hotel & Casino in Las Vegas,True,8.0,1.0,"Las Vegas, Nevada",United States,M,Married,5.0,"Drop Out, Wichita State University"
+Zhou Jianping,63.0,$4B,Fashion & Retail,Fashion retail,Founder and Chairman,HLA Group,True,,,"Jiangyin, China",China,M,Married,,
+Janice McNair,87.0,$5.6B,Sports,"Energy, sports",Co-founder and former Senior Chair,Houston Texans,False,2.0,2.0,"Houston, Texas",United States,F,Widowed,4.0,"Bachelor of Arts/Science, Columbia College"
+Raj Kumar,69.0,$1.6B,Real Estate,"Real estate, hotels",actor,indian,True,,,"Singapore, Singapore",Singapore,M,Married,1.0,
+Meng Qingshan & family,75.0,$1.8B,Manufacturing,Chemicals,chairman,Meihua Holdings,True,,,"Langfang, China",China,M,Married,4.0,
+S.D. Shibulal,69.0,$2B,Technology,Software services,"Former CEO, chief executive officer and managing director",Infosys,True,,,"Bangalore, India",India,M,Married,2.0,"Master of Science, Boston University"
+Marisa Del Vecchio,65.0,$4.7B,Fashion & Retail,Eyeglasses,Heir,EssilorLuxottica,False,,,"Rome, Italy",Italy,F,,,
+Beda Diethelm,83.0,$2.6B,Healthcare,Hearing aids,"largest individual shareholder, with a 10% stake",Swiss hearing aid,True,,,"Zurich, Switzerland",Switzerland,M,,,
+Rafael Del Pino,65.0,$6B,Construction & Engineering,Construction,Chairperson,Ferrovial,False,,,"Madrid, Spain",Spain,M,Divorced,6.0,"Master of Business Administration, MIT Sloan School of Management; Bachelor of Arts/Science, Universidad  Politecnica de Madrid"
+Alejandro Santo Domingo,47.0,$2.8B,Food & Beverage,Beer,"businessman, manages",Santo Domingo Group,False,3.0,1.0,"New York, New York",United States,M,Married,,"Bachelor of Arts/Science, Harvard University"
+Yuri Shefler,56.0,$1.6B,Food & Beverage,Alcohol,businessman,,True,,,"Geneva, Switzerland",Russia,M,Married,4.0,"Bachelor of Arts/Science, Plekhanov Russian University of Economics"
+Igor Altushkin,53.0,$3.8B,Metals & Mining,Metals,founder and largest shareholder,Russian Copper Company (RCC),True,,,"Yekaterinburg, Russia",Russia,M,Married,6.0,"Bachelor of Arts/Science, Ekaterinburg Institute of Economics"
+Reinhold Wuerth & family,88.0,$33.6B,Manufacturing,Fasteners,Chairman,Adolf Würth Group,True,,,"Kuenzelsau, Germany",Germany,M,Married,3.0,
+Matthew Roszak,51.0,$3.1B,Finance & Investments,Cryptocurrency,"venture capitalist and cryptocurrency investor, co-founder and chairman",Bloq,True,,,"Chicago, Illinois",United States,M,Married,,"Bachelor of Arts/Economics, Lake Forest College"
+Georg Schaeffler,59.0,$10.9B,Automotive,Auto parts,Chairman,Schaeffler AG,False,,,"Herzogenaurach, Germany",Germany,M,Divorced,4.0,"Bachelor of Arts/Science, University of St. Gallen, Juris Doctor and Master of Laws, Duke University"
+Tony Tan Caktiong,71.0,$1.4B,Food & Beverage,Food,"Founder, chairman, co-chairman","Jollibee Foods Corporation, DoubleDragon Properties",True,,,"Manila, Philippines",Philippines,M,Married,3.0,"Bachelor of Science, University of Santo Tomas"
+Remi Dassault,23.0,$2.5B,Diversified,Inherited,an heir,Dassault aerospace and software fortune,False,,,"Paris, France",France,M,Single,,
+Michael Kadoorie,82.0,$6.3B,Energy,"Hotels, energy",Chairman,CLP Group,False,,,"Hong Kong, Hong Kong",Hong Kong,M,Widowed,3.0,
+Zhang Wenzhong,62.0,$1.3B,Fashion & Retail,Supermarkets,Founder and Chairman,"Wumart, board at Dmall",True,,,"Beijing, China",China,M,,,"Bachelor of Science, Nankai University, Master of Management, Nankai University, Doctor of Philosophy, Chinese Academy of Sciences, Postdoctoral Fellowship, Stanford University"
+Xu Yingzhuo,56.0,$1.6B,Food & Beverage,Agribusiness,"co-founder, director",Guangdong Haid Group,True,,,"Guangzhou, China",China,M,,,"Bachelor of Science, South China Agricultural University, Master of Business Administration, HEC Paris"
+Warren Stephens,67.0,$3.2B,Finance & Investments,Investment banking,"businessman, chairman, president and chief executive officer",Stephens Inc,False,4.0,1.0,"Little Rock, Arkansas",United States,M,Married,3.0,"Master of Business Administration, Wake Forest University School of Business; Bachelor of Arts/Science, Washington & Lee University"
+Vicky Safra & family,71.0,$20.6B,Finance & Investments,Banking,Co-owner,Safra Group,False,,,"Crans-Montana, Switzerland",Brazil,F,Widowed,4.0,
+"Jacques Saadé, Jr.",52.0,$8.9B,Logistics,Shipping,Founder,CMA CGM,False,,,"Marseille, France",France,M,,2.0,
+Archie Hwang,71.0,$1.6B,Technology,Semiconductors,founder,HMI,True,,,"Taipei, Taiwan",Taiwan,M,Married,,"Bachelor of Arts/Science, National Chiao Tung University"
+Danilo Iervolino,46.0,$1B,Technology,Online universities,"Italian businessman, owner",Salernitana,True,,,"Rome, Italy",Italy,M,Married,,
+Stanley Motta,78.0,$1.1B,Finance & Investments,Finance,"business leader, investor and philanthropist",,False,,,,Panama,M,Married,,"Bachelor of Business Administration, Tulane University"
+Ugo Gussalli Beretta & family,86.0,$2.4B,Manufacturing,Firearms,"entrepreneur, president, and CEO","several companies, Beretta Holding",False,,,"Brescia, Italy",Italy,M,Married,2.0,
+Pei Zhenhua,65.0,$5.9B,Energy,Batteries,Founder and Chairman,Suzhou TA&A Ultra Clean Technology,True,,,"Ningde, China",China,M,,,
+G. M. Rao,73.0,$2.9B,Logistics,Infrastructure,"mechanical engineer, industrialist, founder chairman",GMR Group,True,,,"Bangalore, India",India,M,Married,3.0,"Bachelor of Arts/Science, Andhra University"
+Satyanarayan Nuwal,71.0,$3.6B,Manufacturing,Industrial explosives,"businessman, Founder and Executive Chairman of the Board",Solar Industries India Ltd,True,,,"Nagpur, India",India,M,Married,2.0,
+Frederik Paulsen,73.0,$7.3B,Healthcare,Health care,Ex-Chairman,Ferring,False,,,"Lausanne, Switzerland",Sweden,M,Divorced,3.0,"Bachelor of Science, Christian Albrechts University, Bachelor of Science, Lund University, Doctor of Philosophy, Ecole des Hautes Etudes en Sciences Sociales"
+Rajiv Bajaj,57.0,$5.2B,Diversified,Diversified,"businessman,managing director",Bajaj Auto,False,,,"Pune, India",India,M,Married,1.0,"Bachelor of Engineering, Pune University; Master of Science in Engineering, The University of Warwick"
+Hiroshi Mikitani,59.0,$3.8B,Fashion & Retail,Online retail,"Founder, Chairman, and CEO","Rakuten, Inc.",True,,,"Tokyo, Japan",Japan,M,Married,2.0,"Master of Business Administration, Harvard University"
+Randolph Lerner,62.0,$1.2B,Finance & Investments,"Banking, credit cards","businessman, former, owner",sports-team,False,,,"Cleveland, Ohio",United States,M,Married,4.0,"Bachelor of Arts/Science, Columbia University; Bachelor of Laws, Columbia University"
+Wang Yanqing & family,57.0,$2.4B,Manufacturing,Electrical equipment,chairs,Wuxi Lead Intelligent Equipment,True,,,"Wuxi, China",China,M,Married,,"Undergraduate Degree, Changzhou College of Information Technology"
+Charoen Sirivadhanabhakdi,79.0,$11.3B,Food & Beverage,"Alcohol, real estate",Chairman,TCC Group,True,,,"Bangkok, Thailand",Thailand,M,Widowed,5.0,
+Zheng Fan,45.0,$1.5B,Automotive,electric vehicles,co-founder and vice president,Autohome,True,,,"Beijing, China",China,M,,,"Bachelor of Science, Hebei University of Science and Technology"
+John Hancock,48.0,$2.1B,Metals & Mining,Mining,Businessman,mining magnate,False,,,"London, United Kingdom",Australia,M,Married,3.0,"Master of Business Administration, University of Notre Dame"
+Vincent McMahon,78.0,$2.6B,Sports,Entertainment,"businessman and former professional wrestling promoter, co-founder",modern WWE,True,9.0,1.0,"Greenwich, Connecticut",United States,M,Married,2.0,"Bachelor of Arts/Science, East Carolina University"
+Thomas Pritzker,73.0,$6.7B,Finance & Investments,"Hotels, investments",Executive Chairman,Hyatt Corporation,False,4.0,2.0,"Chicago, Illinois",United States,M,Married,3.0,"Bachelor of Arts/Science, Claremont McKenna College; Doctor of Jurisprudence, University of Chicago; Master of Business Administration, University of Chicago"
+Igor Kudryashkin,62.0,$1B,Metals & Mining,metallurgy,commerce director,Iskander Makhmudov's,True,,,"Moscow, Russia",Russia,M,Married,1.0,"Doctorate, Moscow Institute of Steel and Alloys"
+Yuri Karptsov,60.0,$1.3B,Fashion & Retail,Retail,co-founder,"DNS Retail,",True,,,"Vladivostok, Russia",Russia,M,,,
+Sun Weijie,60.0,$1.1B,Manufacturing,Oilfield equipment,,,True,,,"Yantai, China",China,M,Married,1.0,"Bachelor of Arts/Science, Shandong Institute of Business and Technology"
+Andrei Rappoport,60.0,$1.1B,Finance & Investments,Investments,Russian entrepreneur,,True,,,"Lugano, Switzerland",Russia,M,Married,2.0,"Bachelor of Arts/Science, Donetsk National University"
+Julian Baker,57.0,$2.8B,Finance & Investments,Biotech investing,invester,Biotech investing,True,,,"New York, New York",United States,M,,,"Bachelor of Arts, Harvard University"
+Ulrike Meister,57.0,$1.6B,Manufacturing,Appliances,,,False,,,"Landsberg, Germany",Germany,F,,,
+Tim Sweeney,53.0,$5.7B,Media & Entertainment,Video games,Founder and CEO,Epic Games,True,8.0,1.0,"Cary, North Carolina",United States,M,,,"Bachelor of Arts/Science, University of Maryland, College Park"
+Li Guoqiang,60.0,$1.2B,Automotive,Auto dealerships,"founder , CEO",Zhongsheng Group,True,,,"Beijing, China",China,M,Married,,
+Heikki Herlin,37.0,$1.4B,Manufacturing,"Elevators, escalators",Heir,Kone fortune,False,,,"Helsinki, Finland",Finland,M,Single,,
+Nicholas Woodman,48.0,$1.2B,Technology,GoPro,Entrepreneur,GoPro,True,8.0,,"Big Sky, Montana",United States,M,Married,3.0,"Bachelor of Arts/Science, University of California, San Diego"
+Frank Slootman,65.0,$3B,Technology,Software,"Businessperson, Chairman of the Board",Snowflake,True,6.0,,"Pleasanton, California",United States,M,Married,2.0,"Bachelor of Science, Erasmus University Rotterdam, The Netherlands; Master of Science, Erasmus University Rotterdam, The Netherlands"
+R. Budi Hartono,83.0,$26.5B,Finance & Investments,"Banking, tobacco",Co-founder,Djarum Group,False,,,"Kudus, Indonesia",Indonesia,M,Married,3.0,
+Philippe Benacin,65.0,$1B,Fashion & Retail,Fragrances,CEO,"Inter Parfums, Inc",True,,,"Paris, France",France,M,,,"Master of Business Administration, ESSEC Business School"
+Sergei Gordeev,51.0,$4B,Real Estate,Real estate,"businessman, main shareholder and former CEO",PIK Group,True,,,"Moscow, Russia",Russia,M,Single,,"Bachelor of Arts/Science, Togliatti Academy of Management"
+Frits Goldschmeding,90.0,$6.2B,Service,Temp agency,Founder and Former CEO,Randstad NV,True,,,"Amsterdam, Netherlands",Netherlands,M,Married,3.0,"Doctorate, Free University of Amsterdam"
+Michal Strnad,31.0,$4.4B,Manufacturing,Defense Contracting,Chairman,Czechoslovak Group,False,,,,Czech Republic,M,Married,1.0,
+Ma Huateng,52.0,$30.2B,Technology,Online games,Chairman and CEO,Tencent Holdings,True,,,"Shenzhen, China",China,M,Married,,"Bachelor of Arts/Science, Shenzhen University"
+Noaman Razack,66.0,$1.3B,Real Estate,Real estate,Director,Prestige Group,False,,,"Bangalore, India",India,M,Married,1.0,
+Chen Xueli,72.0,$1.2B,Healthcare,Pharmaceuticals,chairman,"Weigao Holding Company,",True,,,"Weihai, China",China,M,,,
+J. Tomilson Hill,75.0,$3.2B,Finance & Investments,Investments,hedge fund manager,hedge fund,True,6.0,2.0,"New York, New York",United States,M,Married,2.0,"Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Harvard University"
+Tsai Cheng-ta,74.0,$3.9B,Finance & Investments,Finance,Director,Cathay Financial Holdings,False,,,"Taipei, Taiwan",Taiwan,M,Married,,Chinese Culture University
+Jay-Z,54.0,$2.5B,Media & Entertainment,Music,"rapper, businessman, and record executive, ownership stakes, partnerships","Barclays Center, Roc Nation, NFL",True,,,"New York, New York",United States,M,Married,3.0,
+Georg von Opel,57.0,$1.3B,Finance & Investments,"Real estate, investments",Founder,Opel AG,False,,,"London, United Kingdom",Switzerland,M,Married,5.0,"Bachelor of Arts/Economics, University of Rhode Island"
+Magdalena Martullo-Blocher,55.0,$6.4B,Manufacturing,Chemicals,Executive Vice Chairman,Ems-Chemie,False,,,"Feldmeilen, Switzerland",Switzerland,F,Married,3.0,"Master of Business Administration, University of St. Gallen"
+Wen Pengcheng & family,61.0,$1B,Food & Beverage,Agribusiness,,,True,,,"Yunfu, China",China,M,Married,,
+Willy Michel,77.0,$4.7B,Healthcare,Medical devices,Founder,Ypsomed Selfcare Solutions,True,,,"Burgdorf, Switzerland",Switzerland,M,Married,3.0,
+August Troendle,68.0,$3.3B,Healthcare,Pharmaceutical services,"Chief Executive Officer, Chairman of the Board",Medpace,True,,,"Cincinnati, Ohio",United States,M,,,"Medical Doctor, University of Maryland"
+Yu Faxiang,52.0,$1.1B,Media & Entertainment,"Tourism, cultural industry",,,True,,,"Shaoxing, China",China,M,,,
+Chip Wilson,67.0,$6.8B,Fashion & Retail,Lululemon,Chairman,Lululemon,True,,,"Vancouver, Canada",Canada,M,Married,5.0,"Bachelor of Arts/Science, University of Calgary"
+Rajendra Agarwal,65.0,$1.9B,Healthcare,Pharmaceuticals,Indian politician,,True,,,"Mumbai, India",India,M,Married,2.0,
+Philip Anschutz,84.0,$15.3B,Finance & Investments,"Energy, sports, entertainment",Founder,Anschutz Entertainment Group,False,5.0,3.0,"Denver, Colorado",United States,M,Married,3.0,"Bachelor of Arts/Science, University of Kansas"
+Fernando Espinosa Abdalá,,$1.6B,Healthcare,Pharmaceuticals,,,False,,,,Mexico,M,,,
+Nicolas D'Ieteren,48.0,$4B,Automotive,"Auto parts, distribution",Chairman board of directors,D'Ieteren,False,,,"Anzere, Switzerland",Belgium,M,,,"Bachelor of Science, University of London"
+José Coppel Luken,65.0,$1.8B,Fashion & Retail,Diversified,owner,Grupo Coppel,False,,,"Culiacan, Mexico",Mexico,M,,,"Bachelor of Science, Instituto Tecnológico y de Estudios Superiores de Monterrey"
+Maja Oeri,69.0,$3B,Healthcare,Pharmaceuticals,"heiress , entrepreneur, controlling shareholder",Roche,False,,,"Basel, Switzerland",Switzerland,F,Married,,
+Jose Isaac Peres & family,83.0,$1.3B,Real Estate,Shopping malls,Founder,Multiplan,True,,,"Rio de Janeiro, Brazil",Brazil,M,Married,5.0,"Bachelor of Arts/Science, Universidade do Brasil"
+"William Conway, Jr.",74.0,$3.8B,Finance & Investments,Private equity,Co-Chief Executive Officer and Co-founder,Carlyle Group,True,8.0,4.0,"McLean, Virginia",United States,M,Married,1.0,"Bachelor of Arts/Science, Dartmouth College"
+Said Gutseriev,35.0,$1.2B,Energy,"Retail, investments",businessperson,,False,,,"London, United Kingdom",Russia,M,Married,2.0,"Bachelor of Science, University of Oxford; Master, University of Plymouth (UK)"
+Manfredi Lefebvre d'Ovidio & family,70.0,$1.7B,Service,Cruises,Chairman,Heritage Group and AirAsia MOVE,False,,,"Monte Carlo, Monaco",Italy,M,Divorced,1.0,"Drop Out, La Sapienza University of Rome"
+Sergey Shnayder & family,57.0,$1.4B,Fashion & Retail,Retail,founder,"Svetofor Group,",True,,,"Moscow, Russia",Russia,M,Married,,
+Jorge Mas,61.0,$1.7B,Construction & Engineering,Construction,"chairman, businessman , President","largest shareholder of MasTec, Real Zaragoza",False,,,"Miami, Florida",United States,M,Married,3.0,"Master of Business Administration, University of Miami"
+Katharina Otto-Bernstein,60.0,$3.1B,Real Estate,Real estate,filmmaker and producer,production house,False,,,"New York, New York",Germany,F,Married,2.0,"Bachelor of Arts, Columbia College, Master of Fine Arts, Columbia University"
+Keeree Kanjanapas,73.0,$1.2B,Automotive,Transportation,entrepreneur,,True,,,"Bangkok, Thailand",Thailand,M,Married,2.0,
+A. Jayson Adair,54.0,$2B,Automotive,Damaged cars,"businessman, and the chief executive officer",Copart,True,,,"Dallas, Texas",United States,M,Married,2.0,
+Neil Shen,56.0,$3.5B,Finance & Investments,Venture capital,Founding and Managing Partner,HongShan,True,,,"Hong Kong, Hong Kong",Hong Kong,M,Married,,"Bachelor of Arts/Science, Shanghai Jiaotong University; Master of Arts, Yale University"
+Gerald Schwartz,82.0,$1.5B,Finance & Investments,Finance,CEO,Onex,True,,,"Toronto, Canada",Canada,M,Married,4.0,"Master of Business Administration, Harvard University"
+Alex Birkenstock,55.0,$1.9B,Fashion & Retail,Shoes,Heir,Birkenstock,False,,,,Germany,M,,,
+Gleb Fetisov,57.0,$1.1B,Telecom,Investments,"Investor, Film Producer",,True,,,"Limassol, Cyprus",Russia,M,Married,3.0,"Doctorate, Moscow State University"
+Erich Wesjohann & family,78.0,$5.8B,Food & Beverage,Poultry genetics,Founder and Chairman,EW Group,True,,,"Visbek, Germany",Germany,M,Married,3.0,
+Pier Silvio Berlusconi,54.0,$2.1B,Media & Entertainment,Media,"Entrepreneur, Television personality Executive Vice President and managing director","MFE-MediaForEurope, Mediaset España, Mondadori, and Publitalia",False,,,"Arcore, Italy",Italy,M,,3.0,
+Haoyu Cai,,$3.2B,Technology,Mobile games,"businessman, investor, video game producer, co-founder and CEO",miHoYo,True,,,"Shanghai, China",China,M,,,"Bachelor of Science, Shanghai Jiao Tong University, Master of Science, Shanghai Jiao Tong University"
+Thomas Bailey,87.0,$1.3B,Finance & Investments,Money management,financier,,True,,,"Aspen, Colorado",United States,M,Divorced,2.0,"Bachelor of Arts/Science, Michigan State University; Master of Business Administration, University of Western Ontario"
+Agoes Projosasmito,68.0,$5.9B,Metals & Mining,"mining, investment",President Commissioner,PT Amman Mineral Internasional Tbk,True,,,"Jakarta, Indonesia",Indonesia,M,Married,2.0,"Bachelor of Economics, Universitas Kristen Satya Wacana, Diploma in Economics of Development, Australian National University"
+Molly Miao,,$4.2B,Fashion & Retail,Shein,Co-founder and COO,Shein,True,,,"Guangzhou, China",China,F,,,"Bachelor of Science, Nanjing University of Posts and Telecommunications"
+Gabriella Meister,,$1.6B,Manufacturing,Appliances,"founder, businesswoman",Siegfried Meister,False,,,"Landsberg am Lech, Germany",Germany,F,Widowed,1.0,
+Marc Lipschultz,55.0,$2B,Finance & Investments,Private equity,Co-Chief Executive Officer,,True,,,"New York, New York",United States,M,,,"Bachelor of Arts, Stanford University, Master of Business Administration, Harvard University"
+Pierre Karl Péladeau,62.0,$1.9B,Media & Entertainment,Media,"president , CEO","Quebecor Inc., Vidéotron",False,,,"Montreal, Canada",Canada,M,In Relationship,3.0,"Bachelor of Arts, Université du Québec à Montréal, Bachelor of Laws, Université de Montréal"
+Shunsaku Sagami,33.0,$1.9B,Finance & Investments,M&A brokerage,"founder, CEO",M&A Research Institute,True,,,"Tokyo, Japan",Japan,M,,,"Bachelor of Arts/Science, Kobe University"
+Zheng Jianjiang & family,63.0,$2.7B,Manufacturing,Electrical equipment,chairman,Ningbo Sanxing Medical Electric,True,,,"Ningbo, China",China,M,Married,,
+Maria Del Pino,68.0,$3.3B,Construction & Engineering,Construction,"businessperson, 9% stake",Ferrovial,False,,,"Madrid, Spain",Spain,F,Married,3.0,"Bachelor of Arts/Science, IESE Business School"
+Stefano Gabbana,61.0,$2.1B,Fashion & Retail,Luxury goods,"fashion designer , co-founder",Dolce & Gabbana,True,,,"Milan, Italy",Italy,M,Single,,"Bachelor of Arts/Science, Istituto Superiore di Industrie Artistiche"
+Pierre Omidyar,56.0,$6.3B,Technology,"EBay, PayPal",Founder,eBay,True,8.0,5.0,"Honolulu, Hawaii",United States,M,Married,3.0,"Bachelor of Arts/Science, Tufts University"
+William Ding,52.0,$33.5B,Technology,Online games,CEO,NetEase,True,,,"Hangzhou, China",China,M,,,"Bachelor of Arts/Science, University of Electronic Science and Technology of China"
+Angela Bennett,80.0,$1.3B,Metals & Mining,Mining,businesswoman,,False,,,"Perth, Australia",Australia,F,Married,7.0,
+Kamal Ghaffarian,65.0,$2.3B,Energy,"Space, energy",Co-founder,"IBX, Axiom Space, Intuitive Machines, X-energy and Quantum Space",True,,,"Naples, Florida",United States,M,Engaged,,"Bachelor of Science in Engineering, Catholic University of America; Master, George Washington University"
+Kim Jung-youn,20.0,$1.4B,Media & Entertainment,Online gaming,Owner,NXC,False,,,"Jeju, South Korea",South Korea,F,Single,,
+Jose Roberto Marinho,68.0,$2.1B,Media & Entertainment,Media,"businessman, president , vice-president","Roberto Marinho Foundation, Grupo Globo",False,,,"Rio de Janeiro, Brazil",Brazil,M,Married,5.0,
+Zhang Gongyun,61.0,$1.2B,Manufacturing,Tyre manufacturing machinery,Chair,Himile Mechanical Science and Technology,True,,,"Gaomi, China",China,M,,,
+Sehat Sutardja,62.0,$1.3B,Technology,Semiconductors,Co-founder,Marvell Technology,True,,,"Las Vegas, Nevada",United States,M,Married,2.0,"Bachelor of Arts/Science, University of California, Berkeley"
+Takao Yasuda,74.0,$4.1B,Fashion & Retail,Retail,Founder,Don Quijote,True,,,"Singapore, Singapore",Japan,M,Married,1.0,"Bachelor of Arts/Science, Keio University"
+Jeff Yass,65.0,$27.6B,Finance & Investments,"Trading, investments",Co-founder,Susquehanna International Group,True,8.0,1.0,"Haverford, Pennsylvania",United States,M,Married,4.0,"Bachelor of Science, SUNY Binghamton"
+Kevin Glazer,62.0,$1.7B,Sports,"Manchester United, Tampa Bay Buccaneers","founder, owner , CEO",Glazer Properties,False,,,"Rochester, New York",United States,M,,,"Bachelor of Arts/Science, Ithaca College"
+Qin Hua,56.0,$1.1B,Food & Beverage,Pet Food,chairman and CEO,Gambol Pet Group,True,,,"Liaocheng, China",China,M,,,
+Wang Shih-Chung,62.0,$1.2B,Manufacturing,Pneumatic equipments,Chairperson,Taiwan's AirTAC International Group,True,,,"Taipei, Taiwan",Taiwan,M,Married,,
+Stewart Butterfield,51.0,$1.7B,Technology,Messaging software,Co-founder and CEO,Slack,True,,,"Aspen, Colorado",Canada,M,Married,1.0,"Master of Philosophy, University of Cambridge; Bachelor of Arts/Science, University of Victoria"
+Hubert Burda,84.0,$3.8B,Media & Entertainment,Publishing,Chairman of the Board,Hubert Burda Media,False,,,"Munich, Germany",Germany,M,Married,2.0,"Bachelor of Arts/Science, Ludwig Maxmilian University"
+Manoj Punjabi,51.0,$1.9B,Media & Entertainment,Movies,"co-founded, CEO",MD Entertainment,True,,,"Jakarta, Indonesia",Indonesia,M,Married,3.0,"Bachelor's degree, Indonesian European University"
+Ilkka Herlin,65.0,$1.9B,Manufacturing,"Elevators, escalators","Finnish business professional, chairman",,False,,,"Helsinki, Finland",Finland,M,Married,4.0,"Doctor of Philosophy, University of Helsinki"
+Gustavo Denegri & family,87.0,$3B,Healthcare,Biotech,"businessman, chairman, owns 44%",DiaSorin,True,,,"torino, Italy",Italy,M,Married,2.0,"Bachelor of Science, University of Turin"
+Joop van den Ende,82.0,$1.3B,Media & Entertainment,TV shows,Co-founder,Endemol,True,,,"Baarn, Netherlands",Netherlands,M,Married,2.0,
+Ric Elias,56.0,$1B,Media & Entertainment,Media,"CEO, co-founder",Red Ventures,True,,,"Charlotte, North Carolina",United States,M,Married,2.0,"Bachelor of Science, Boston College, Master of Business Administration, Harvard University"
+Anna Katharina Viessmann,,$3.6B,Manufacturing,Heating and cooling equipment,non-executive member of the board,Viessmann Group,False,,,"Battenberg, Germany",Germany,F,,,"Bachelor of Arts, University of Passau, Master of Science, Zeppelin University Friedrichshafen"
+Jorge Perez,74.0,$1.7B,Real Estate,Real estate,"businessman, investor, philanthropist, writer, Chairman, CEO",Related Group,True,8.0,3.0,"Miami, Florida",United States,M,Married,4.0,"Bachelor of Arts/Science, CW Post College; Master of Science, University of Michigan"
+Jiang Weiping & family,69.0,$3.9B,Manufacturing,Chemicals,Former Chairman,Tianqi Lithium Industries,True,,,"Chengdu, China",China,M,Married,1.0,"Bachelor of Science in Engineering, Xihua University"
+Ziv Aviram,65.0,$1.4B,Automotive,Automotive technology,President,"Orcam, Inc.",True,,,"Mevaseret Zion, Israel",Israel,M,,,"Bachelor of Science, Ben Gurion University of the Negev"
+Shamsheer Vayalil,47.0,$3.5B,Healthcare,Healthcare,"radiologist and businessman, founder and chairman, oversees an extensive investment portfolio","Burjeel Holdings, Burjeel Holdings, RPM, LifePharma, Lakeshore Hospital",False,,,"Abu Dhabi, United Arab Emirates",India,M,Married,4.0,"Bachelor of Medicine, Bachelor of Surgery, Kasturba Medical College; Doctor of Medicine, Sri Ramachandra Medical College and Research Institute"
+Phil Knight & family,86.0,$40.9B,Fashion & Retail,Nike,Chairman,Nike,True,8.0,3.0,"Hillsboro, Oregon",United States,M,Married,3.0,"Master of Business Administration, Stanford Graduate School of Business; Bachelor of Arts/Science, University of Oregon"
+Roberto Angelini Rossi,75.0,$1.8B,Diversified,"Forestry, mining",President,COPEC S.A,False,,,"Santiago, Chile",Chile,M,Married,4.0,"Bachelor of Arts/Science, Pontificia Universidad de Chile"
+Fahed Hariri,43.0,$1.2B,Construction & Engineering,"Construction, investments",Heir,property developer,False,,,"London, United Kingdom",Lebanon,M,Married,3.0,"Bachelor of Architecture, École Spéciale d’Architecture"
+Sharon Azrieli,63.0,$1.6B,Real Estate,Real estate,singer,,False,,,"Montreal, Canada",Canada,F,,,"Bachelor of Arts, Vassar College, Associate Degree in Illustration, Parsons School of Design, Diploma in Vocal Performance, Juilliard School, Master of Music, Université de Montréal, Doctorate in Music, Université de Montréal"
+Niti Osathanugrah,50.0,$1.1B,Finance & Investments,"Energy drinks,investments",,,False,,,"Bangkok, Thailand",Thailand,M,Married,1.0,"Bachelor of Arts/Economics, Amherst College; Master of Arts, Chulalongkorn University"
+Ren Xiaoqing,,$4.2B,Fashion & Retail,Shein,Co-founder and Executive Director,Shein,True,,,"Guangzhou, China",China,M,,,
+Du Jiangtao & family,54.0,$2.9B,Manufacturing,Chemicals,businessman,Junzheng Energy & Chemical Industry,True,,,"Beijing, China",China,M,Married,,"Master of Arts, Beijing Institute of Technology"
+Robert Kraft,82.0,$11.1B,Sports,"Manufacturing, New England Patriots",Chairman & CEO,The Kraft Group,True,8.0,3.0,"Brookline, Massachusetts",United States,M,"Widowed, Remarried",4.0,"Bachelor of Arts/Science, Columbia University; Master of Business Administration, Harvard Business School"
+Eric Smidt,64.0,$11.7B,Fashion & Retail,Hardware stores,CEO,Harbor Freight Tools,True,10.0,1.0,"Beverly Hills, California",United States,M,Married,,
+Thomas Peterffy,79.0,$34B,Finance & Investments,Discount brokerage,Former CEO,Interactive Brokers,True,10.0,1.0,"Palm Beach, Florida",United States,M,Divorced,3.0,"Drop Out, New York University"
+Vinod Adani,75.0,$23B,Diversified,"Infrastructure, commodities",Co-owner,Adani Enterprises,True,,,"Dubai, United Arab Emirates",Cyprus,M,Married,,
+Aristotelis Mistakidis,62.0,$3.3B,Metals & Mining,"Mining, commodities",Greek trader,Greek metals trader,True,,,"Zug, Switzerland",Greece,M,Married,1.0,"Bachelor of Arts/Science, London School of Economics"
+Lin Jianhua,61.0,$4.7B,Manufacturing,Solar panel components,Chairman,Hangzhou First Applied Material,True,,,"Hangzhou, China",China,M,Married,,
+David Shaw,73.0,$8.3B,Finance & Investments,Hedge funds,Founder,"D. E. Shaw & Co., L.P.",True,8.0,2.0,"New York, New York",United States,M,Married,3.0,"Doctorate, Stanford University; Bachelor of Arts/Science, University of California, San Diego"
+Mike Speiser,53.0,$1.2B,Technology,Software,Managing Director,Sutter Hill Ventures,True,,,"San Francisco, California",United States,M,Single,,"Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, University of Arizona"
+Lee Yeow Seng,46.0,$2.3B,Real Estate,"Palm oil, property",Group Chief Executive Officer,IOI Properties Group,False,,,"Putrajaya, Malaysia",Malaysia,M,,,"Bachelor of Laws, Kings College London"
+Rocco Commisso,74.0,$8B,Telecom,Telecom,Founder and CEO,Mediacom,True,10.0,1.0,"Saddle River, New Jersey",United States,M,Married,2.0,"Bachelor of Arts/Science, Columbia University; Master of Business Administration, Columbia University"
+Koo Bon-neung,75.0,$1.2B,Manufacturing,Electronics,former,Korea Baseball Organization,False,,,"Seoul, South Korea",South Korea,M,Married,2.0,"Bachelor of Arts/Science, Korea University"
+Gordon Wu,88.0,$1.4B,Real Estate,Real estate,chairman,Hopewell Holdings,True,,,"Hong Kong, Hong Kong",Hong Kong,M,Married,4.0,"Bachelor of Arts/Science, Princeton University; Master, Princeton University"
+Mikhail Fridman,59.0,$13.1B,Energy,"Oil, banking, telecom",Co-founder,Alfa-Group,True,,,"Moscow, Russia",Russia,M,Divorced,5.0,"Master of Science, Moscow Institute of Steel and Alloys"
+"Jeremy Jacobs, Sr. & family",84.0,$4.5B,Service,Food service,Chairman,Delaware North,False,5.0,2.0,"East Aurora, New York",United States,M,Married,6.0,"Bachelor of Arts/Science, SUNY Buffalo"
+Hank Meijer & family,72.0,$5.5B,Fashion & Retail,Supermarkets,Co-chairman and CEO,Meijer,False,3.0,2.0,"Grand Rapids, Michigan",United States,M,Married,3.0,"Bachelor of Arts/Science, University of Michigan"
+Yao Kuizhang,59.0,$1.6B,Food & Beverage,Beverages,Chairman,Hebei Yangyuan Zhihui Beverage,True,,,"Hengshui, China",China,M,,,
+Huang Xiaofen & family,62.0,$1B,Technology,Printed circuit boards,major shareholder and a director,Shenzhen Kinwong Electronics,True,,,"Shenzhen, China",China,F,Married,,
+Huang Dawen,63.0,$1.7B,Manufacturing,Silicon,vice chairman,Ningbo Hoshine Apparel.,True,,,"Hong Kong, Hong Kong",Hong Kong,M,,,
+You Xiaoping & family,66.0,$5.9B,Manufacturing,Polyurethanes,Chairman,Huafon Group,True,,,"Wenzhou, China",China,M,Married,2.0,
+"Theo Albrecht, Jr. & family",73.0,$14B,Fashion & Retail,"Aldi, Trader Joe's",Owner,Trader Joe’s and Aldi Nord,False,,,"Mulheim an der Ruhr, Germany",Germany,M,,1.0,
+Rahul Bhatia,64.0,$5.6B,Service,Aviation,Co-founder and Managing Director,InterGlobe Enterprises,False,,,"Delhi, India",India,M,Married,2.0,"Master of Science, University of Waterloo"
+Oren Zeev,59.0,$2B,Finance & Investments,Investments,Businessman,,True,,,"Los Altos, California",Israel,M,Married,2.0,"Bachelor of Science, Technion - Israel Institute of Technology, Master of Business Administration, INSEAD"
+Zhang Congyuan,76.0,$8.6B,Fashion & Retail,Shoes,Founder and Chairman,Huali Industrial,True,,,"Taoyuan, Taiwan",Taiwan,M,Married,,
+Thomas Secunda,69.0,$5.4B,Finance & Investments,Bloomberg LP,"Co-Founder , chairman",Bloomberg,True,8.0,2.0,"Croton-on-Hudson, New York",United States,M,Married,2.0,"Bachelor of Arts/Science, SUNY Binghamton"
+Cynthia Helena Grossman Fleishman,69.0,$2B,Food & Beverage,Arca Continental,Owner,Grupo Continental,False,,,Mexico,Mexico,F,,,
+Mike Adenuga,70.0,$6.7B,Diversified,"Telecom, oil",Founder,Globacom,True,,,"Lagos, Nigeria",Nigeria,M,Married,7.0,"Master of Business Administration, Pace University"
+Riaz Valani,47.0,$1.9B,Finance & Investments,E-cigarettes,general partner,"Global Asset Capital, LLC",True,,,"Malibu, California",United States,M,,,"Bachelor of Science, Stanford University"
+Hans Sy,68.0,$2.6B,Diversified,Diversified,"Chairman of the Executive Committee , Director",SM Prime,False,,,"Manila, Philippines",Philippines,M,Married,4.0,"Bachelor of Science, De La Salle University"
+Ana Lucia de Mattos Barretto Villela,50.0,$1.9B,Finance & Investments,Banking,Brazilian entrepreneur,,False,,,"Sao Paulo, Brazil",Brazil,F,Married,,"Bachelor of Arts, Pontifícia Universidade Católica de São Paulo"
+Nancy Walton Laurie,72.0,$10.1B,Fashion & Retail,Walmart,Heir,Walmart,False,1.0,1.0,"Henderson, Nevada",United States,F,Married,1.0,"Bachelor of Arts/Science, University of Memphis"
+Edward Lampert,61.0,$2B,Finance & Investments,Sears,Founder,ESL Investments Inc.,True,9.0,,"Miami Beach, Florida",United States,M,Married,3.0,"Bachelor of Arts/Science, Yale University"
+George Kurtz,53.0,$3.2B,Technology,Security software,"businessman,CEO and founder, founder and former CEO","CrowdStrike, Foundstone",True,8.0,1.0,"Paradise Valley, Arizona",United States,M,Married,2.0,"Bachelor of Science, Seton Hall University"
+Benu Gopal Bangur,92.0,$6.8B,Manufacturing,Cement,Chairman,Shree Cement,False,,,"Kolkata, India",India,M,Widowed,2.0,"Bachelor of Arts/Science, Calcutta University"
+Jay Y. Lee,55.0,$11.5B,Technology,Samsung,Executive chairman,Samsung Electronics,False,,,"Seoul, South Korea",South Korea,M,Divorced,2.0,"Master of Business Administration, Keio University; Bachelor of Arts/Science, Seoul National University"
+Lynn Schusterman & family,85.0,$4.5B,Energy,"Oil & gas, investments",Co-founder and Chair Emerita,"Charles and Lynn Schusterman, several other philanthropic initiatives",False,1.0,5.0,"Tulsa, Oklahoma",United States,F,Widowed,3.0,"Drop Out, University of Miami"
+Stanley Hubbard,90.0,$1.6B,Media & Entertainment,DirecTV,Chairman and CEO,"Hubbard Broadcasting, Inc.",False,5.0,,"St. Paul, Minnesota",United States,M,Married,5.0,"Bachelor of Arts/Science, University of Minnesota"
+Louis Bacon,67.0,$1B,Finance & Investments,Hedge funds,Founder,"Moore Capital Management, LP",True,7.0,,"Oyster Bay, New York",United States,M,Divorced,7.0,"Master of Business Administration, Columbia Business School; Bachelor of Arts/Science, Middlebury College"
+Wu Bo,69.0,$1.1B,Manufacturing,Machinery,,,True,,,"Nanjing, China",China,M,,,"Bachelor of Science, Southeast University, Master of Science, Southeast University"
+Sophie Luise Fielmann,29.0,$2.7B,Manufacturing,Optometry,Heir,Fielmann Group AG,False,,,Germany,Germany,F,,,"BSc in Psychology, Medical School Hamburg, MPhil in Management, Cambridge Judge Business School, MSc in Cognitive Neurosciences, University College London"
+Chung Mong-joon,72.0,$1.2B,Manufacturing,"shipbuilding, industrial machines","businessman, politician",,False,,,"Seoul, South Korea",South Korea,M,Married,4.0,"Doctorate, Johns Hopkins University; Master of Business Administration, Massachusetts Institute of Technology; Bachelor of Arts/Science, Seoul National University"
+Laurene Powell Jobs & family,60.0,$12.8B,Technology,"Apple, Disney","Investor, Philanthropist",Emerson Collective,False,2.0,2.0,"Palo Alto, California",United States,F,Widowed,3.0,"Master of Business Administration, Stanford Graduate School of Business; Bachelor of Arts/Science, University of Pennsylvania, The Wharton School"
+Miao Yongjun,56.0,$1.4B,Healthcare,Clinical diagnostics,chairman,"Autobio Diagnostics, a clinical diagnostics company",True,,,"Zhengzhou, China",China,M,,,
+Chen Fashu,63.0,$2.8B,Finance & Investments,Investments,"businessman, chairman",New Huada Group,True,,,"Fuzhou, China",China,M,Married,4.0,China Europe International Business School
+Todd Graves,52.0,$9.1B,Food & Beverage,Raising Cane's,Co-Founder,Raising Cane's Chicken Fingers,True,9.0,,"Baton Rouge, Louisiana",United States,M,Married,2.0,"Bachelor of Arts/Science, The University Of Georgia
+"
+Kishore Mariwala,89.0,$2.4B,Food & Beverage,Consumer goods,businessman,Marico,False,,,"Mumbai, India",India,M,Married,2.0,"Master of Science in Engineering, Massachusetts Institute of Technology; Bachelor of Science in Engineering, University of Mumbai"
+Ron Burkle,71.0,$3B,Finance & Investments,"Supermarkets, investments",Investor,"The Yucaipa Companies, LLC",True,9.0,1.0,"London, United Kingdom",United States,M,Divorced,3.0,"Diploma, High School"
+Leonid Boguslavsky,72.0,$4.7B,Finance & Investments,Venture capital,Founder,RTP Global,True,,,"Florence, Italy",Canada,M,Married,4.0,"Master of Science, Moscow Institute for Transport Engineering"
+Micky Arison,74.0,$8B,Service,Carnival Cruises,Chairman and CEO,Carnival Corporation,False,5.0,2.0,"Bal Harbour, Florida",United States,M,Married,2.0,"Drop Out, University of Miami"
+Juan Domingo Beckmann Legorreta & family,56.0,$4.6B,Food & Beverage,Tequila,CEO,José Cuervo,False,,,"Mexico City, Mexico",Mexico,M,,,"Bachelor of Business Administration, Universidad Anáhuac, Master of Marketing, Universidad Anáhuac"
+Esther Grether,88.0,$2B,Fashion & Retail,Art collection,art collector and businesswoman,,False,,,"Basel, Switzerland",Switzerland,F,Widowed,2.0,
+Agnete Kirk Thinggaard,40.0,$6.5B,Manufacturing,Lego,Board Member,Lego Foundation,False,,,"Billund, Denmark",Denmark,F,,,"Bachelor of Science, Aarhus University"
+Zhang Yin,67.0,$1.3B,Manufacturing,Paper manufacturing,Entrepreneur,,True,,,"Dongguan, China",China,F,Married,2.0,
+Tilman Fertitta,66.0,$9.4B,Food & Beverage,"Entertainment, Houston Rockets",Chairman and CEO,Fertitta Entertainment,True,9.0,2.0,"Houston, Texas",United States,M,Married,4.0,"Drop Out, Texas Tech University; Drop Out, University of Houston"
+Kenny Troutt,76.0,$1.7B,Telecom,Telecom,Founder,"Excel Communications, a Texas-based telecommunications",True,,,"Dallas, Texas",United States,M,Married,3.0,"Bachelor of Arts/Science, Southern Illinois University"
+Hartley Rogers,64.0,$1.2B,Finance & Investments,asset management,Chairman,Hamilton Lane.,True,,,"Chicago, Illinois",United States,M,Married,3.0,"Bachelor of Arts, Harvard College, Master of Business Administration, Harvard Business School"
+Liora Ofer,70.0,$1.9B,Finance & Investments,Investments,Chairperson,Melisron Ltd,False,,,"Tel Aviv, Israel",Israel,F,Separated,2.0,
+Jared Smith,49.0,$1.4B,Technology,Cloud computing,Co-Founder,Qualtrics,True,,,"Provo, Utah",United States,M,Married,,"Bachelor of Science, London School of Economics"
+Xu Hang,61.0,$9.5B,Healthcare,Medical devices,Co-Founder and Co-CEO,Mindray Medical International,True,,,"Shenzhen, China",Hong Kong,M,,,"Master of Business Administration, Ceibs; Bachelor of Engineering, Tsinghua University; Master of Science in Engineering, Tsinghua University"
+Nik Storonsky,39.0,$2.7B,Finance & Investments,Fintech,Co-founder and CEO,Revolut,True,,,"London, United Kingdom",United Kingdom,M,Married,2.0,"Master of Science, Moscow Institute of Physics and Technology"
+Stéphane Bancel,51.0,$3.8B,Healthcare,"Biotech, vaccines","business executive, chief executive officer",Moderna,True,,,"Boston, Massachusetts",France,M,Married,2.0,"Master of Science in Engineering, Ecole Centrale Paris; Master of Business Administration, Harvard University; Master of Science in Engineering, University of Minnesota"
+Fu Liquan & family,56.0,$3.7B,Technology,Surveillance equipment,President / chairman,Zhejiang Dahua Technology,True,,,"Hangzhou, China",China,M,Married,1.0,"Bachelor of Arts/Science, Zhejiang Shuren University; Master of Business Administration, Zhejiang University"
+John Doerr,72.0,$11.7B,Finance & Investments,Venture capital,Investor,Kleiner Perkins,True,8.0,2.0,"Woodside, California",United States,M,Married,2.0,"Master of Business Administration, Harvard University; Bachelor of Arts/Science, Rice University; Master of Science, Rice University"
+Sam Goi,77.0,$2.4B,Food & Beverage,Frozen foods,"businessman, chairman, selling","Tee Yih Jia, spring roll pastry",True,,,"Singapore, Singapore",Singapore,M,Married,3.0,
+Chen Zhiping,48.0,$1.7B,Manufacturing,E-cigarettes,"CEO, Chairman",Smoore International Holdings,True,,,"Shenzhen, China",China,M,Married,,"Master, China Europe International Business School; Bachelor of Arts/Economics, Tongji University"
+Herb Chambers,82.0,$2.6B,Automotive,Car dealerships,"businessman, owner and president",Herb Chambers Companies,True,9.0,,"Boston, Massachusetts",United States,M,Single,,
+Orlando Bravo,53.0,$8.7B,Finance & Investments,Private equity,Investor,Software and Technology sectors,True,8.0,1.0,"Miami Beach, Florida",United States,M,Married,4.0,"Bachelor of Arts/Science, Brown University; Master of Business Administration, Stanford Graduate School of Business; Doctor of Jurisprudence, Stanford University"
+Konstantin Strukov & family,65.0,$1.6B,Metals & Mining,"Gold, coal mining",top executive,coal miner,True,,,"Chelyabinsk, Russia",Russia,M,Married,2.0,"Master of Science, Magnitogorsk Mining and Metallurgical Institute"
+Ding Shijia,60.0,$6B,Fashion & Retail,Sports apparel,Deputy Chairman,Anta Sports Products Ltd.,True,,,"Quanzhou, China",China,M,Married,,
+Alain Merieux & family,86.0,$6.6B,Healthcare,Pharmaceuticals,Founder,Sanofi Pasteur,False,,,"Lyon, France",France,M,Married,3.0,"PhD in Pharmacy, University of Lyon, PMD, Harvard Business School"
+Leon Black,72.0,$14B,Finance & Investments,Private equity,Former CEO,Apollo Global Management,True,8.0,2.0,"New York, New York",United States,M,Married,4.0,"Bachelor of Arts/Science, Dartmouth College; Master of Business Administration, Harvard University"
+Xue Min,67.0,$3.8B,Healthcare,Healthcare,Chairman,Shanghai United Imaging Healthcare,True,,,"Wuhan, China",China,M,,,
+Ruben Feffer,,$1.5B,Manufacturing,Pulp and paper,"composer, keyboard player, arranger, musical producer ,director",,False,,,"São Paulo, Brazil",Brazil,M,Married,,
+Kommer Damen,80.0,$2.1B,Manufacturing,Shipbuilding,chairman,Damen Shipyards,False,,,"Gorinchem, Netherlands",Netherlands,M,Married,4.0,
+Zhu Gongshan & family,66.0,$2.4B,Manufacturing,Solar panel materials,"businessman, chairs",GCL-Poly Energy Holdings,True,,,"Shanghai, China",China,M,Married,2.0,
+Marina Prada,78.0,$2.7B,Fashion & Retail,Luxury goods,Heir,Prada,False,,,"Milan, Italy",Italy,F,,,
+Harvey Jones,71.0,$1B,Technology,Nvidia,,,True,,,"Palm Beach, Florida",United States,M,,,"Bachelor of Science, Georgetown University, Master of Science, Massachusetts Institute of Technology"
+Richard Branson,73.0,$2.1B,Diversified,Virgin,"co-founded, Business magnate, Author","Virgin Group, Virgin Atlantic · See more",True,,,"Necker Island, British Virgin Islands",United Kingdom,M,Married,2.0,"Drop Out, High School"
+Robert Langer,75.0,$1.2B,Healthcare,Biotech,"biotechnologist, businessman, chemical engineer, chemist, inventor",,True,8.0,,"Boston, Massachusetts",United States,M,Married,3.0,"Bachelor of Engineering, Cornell University; Doctorate, Massachusetts Institute of Technology"
+Solina Chau,62.0,$3.1B,Finance & Investments,Investments,Co-founder,Horizons Ventures,True,,,"Hong Kong, Hong Kong",Hong Kong,F,,,"Bachelor of Arts/Science, University of New South Wales"
+Shigefumi Wada,71.0,$1.3B,Technology,Software,Founder and President,Obic,True,,,"Tokyo, Japan",Japan,M,Married,2.0,"Bachelor of Arts/Science, Rikkyo University"
+An Kang,75.0,$2.5B,Healthcare,Pharmaceuticals,"former doctor, chairman and largest shareholder",Hualan Biological Engineering,True,,,"Xinxiang, China",China,M,Married,,"Bachelor of Arts/Science, Henan Normal University"
+Alexander Svetakov,56.0,$2.5B,Finance & Investments,Real estate,"property developer, founder and chairman",Absolut Group,True,,,"Moscow, Russia",Russia,M,Married,5.0,"Master of Science, Moscow Institute of Electronic Technology"
+Neal Blue & family,89.0,$3.4B,Manufacturing,Defense,"businessman, chief executive officer and chairman",General Atomics,True,7.0,,"San Diego, California",United States,M,Widowed,4.0,"Bachelor of Arts/Science, Yale University"
+Li Shuirong & family,67.0,$10.5B,Manufacturing,Petrochemicals,Chairman,Zhejiang Rongsheng Holding Group,True,,,"Hangzhou, China",China,M,Married,1.0,
+Thomas Sandell,63.0,$1.2B,Finance & Investments,Hedge funds,Founder,Sandell Asset Management,True,,,"London, United Kingdom",Sweden,M,Married,1.0,"Master of Business Administration, Columbia Business School; Bachelor of Arts/Science, Uppsala University"
+Drew Houston,41.0,$1.8B,Technology,Cloud storage service,CEO,Dropbox,True,8.0,,"San Francisco, California",United States,M,Single,,"Bachelor of Arts/Science, Massachusetts Institute of Technology"
+Scott Cook,71.0,$6.4B,Technology,Software,Chair of the Executive Committee,Intuit,True,8.0,3.0,"Woodside, California",United States,M,Married,3.0,"Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, University of Southern California"
+"Edward Roski, Jr.",85.0,$7.1B,Real Estate,Real estate,President and Chairman,"Majestic Realty, Co.",False,5.0,1.0,"Los Angeles, California",United States,M,Widowed,3.0,"Bachelor of Arts/Science, University of Southern California"
+Roger Samuelsson,60.0,$3B,Healthcare,Drug delivery devices,"entrepreneur, owns 69%",SHL Medical,True,,,"Oberägeri, Switzerland",Sweden,M,,,
+Alexander Ponomarenko,59.0,$2B,Logistics,"Real estate, airport",Russian-Cypriot businessman and entrepreneur,,True,,,"Moscow, Russia",Russia,M,Married,3.0,"Master of Science, Russian State Academy of Management; Bachelor of Arts/Science, Simferopol State University"
+Takahisa Takahara,62.0,$6.4B,Fashion & Retail,Personal care goods,Chief Executive,Unicharm,False,,,"Tokyo, Japan",Japan,M,,,
+Thomas Wu,73.0,$2B,Finance & Investments,Finance,,,False,,,"Taipei, Taiwan",Taiwan,M,Married,2.0,"Bachelor of Arts/Science, Fu Jen Catholic University; Master of Business Administration, University of California, Los Angeles"
+Andrei Kuzyaev,58.0,$1B,Telecom,"telecom, oil service, real estate",Russian businessperson,,True,,,"Moscow, Russia",Russia,M,Married,3.0,"Bachelor of Arts/Science, Perm State University"
+Kishin RK,40.0,$1.6B,Real Estate,"Real estate, hotels","Founder ,CEO",RB Capital Group.,False,,,"Singapore, Singapore",Singapore,M,Married,,"Bachelor of Science (Real Estate), National University of Singapore"
+Heikki Kyostila,78.0,$2.1B,Healthcare,Dental products,"founder, owner, president",dental equipment maker Planmeca,True,,,"Helsinki, Finland",Finland,M,,,
+David Fong,66.0,$2.4B,Real Estate,Real estate,co-chairman and managing director,Hip Shing Hong Group,False,,,"Hong Kong, Hong Kong",Hong Kong,M,Married,2.0,"Bachelor of Arts, Simon Fraser University, Master of Business Administration, University of Hong Kong"
+Alfredo Egydio Arruda Villela Filho,54.0,$2.1B,Finance & Investments,Banking,"Executive and businessman, president and largest shareholder",Itaúsa Group,False,,,"Sao Paulo, Brazil",Brazil,M,Married,,"Master of Business Administration, Fundacao Getulio Vargas; Bachelor of Engineering, Instituto Maua de Tecnologia"
+Guillaume Pousaz,42.0,$7.8B,Finance & Investments,Fintech,CEO and Founder,Checkout.com,True,,,"London, United Kingdom",Switzerland,M,Married,3.0,
+Fredrik Österberg,53.0,$1.8B,Gambling & Casinos,Gambling products,co-founder,Evolution AB,True,,,"Stockholm, Sweden",Sweden,M,,,"Bachelor of Business Administration, Stockholm University, Business economics, marketing/management"
+Lai Shixian,49.0,$1.7B,Fashion & Retail,Sports apparel,Executive director,Anta Sports,True,,,"Quanzhou, China",China,M,Married,,"Master of Business Administration, China Europe International Business School"
+Zhang Li,71.0,$1.7B,Real Estate,Real estate,co-founder,Guangzhou R&F Properties,True,,,"Guangzhou, China",China,M,Married,1.0,"Bachelor of Science, Guangzhou Open University"
+Eric Lefkofsky,54.0,$3.9B,Technology,"Groupon, investments","businessman, founder and CEO, co-founder","Tempus AI, Groupon",True,8.0,2.0,"Glencoe, Illinois",United States,M,Married,3.0,"Bachelor of Arts/Science, University of Michigan; Doctor of Jurisprudence, University of Michigan"
+Michael Heine,74.0,$1.7B,Finance & Investments,Financial services,"founder, managing director",Netwealth,True,,,"Melbourne, Australia",Australia,M,Married,2.0,
+Cai Kui,61.0,$4B,Real Estate,Real estate,Co-founder,Longfor Group Holdings,True,,,"Chengdu, China",China,M,,1.0,"Bachelor of Arts/Science, Nanjing University of Aeronautics & Astronautics"
+Kailashchandra Nuwal,66.0,$2.4B,Manufacturing,Industrial explosives,shares,Solar Industries,False,,,"Nagpur, India",India,M,Married,2.0,
+Barbara Tyson,75.0,$2.1B,Food & Beverage,Food processing,"inherited , retired vice president","Tyson Foods,",False,3.0,1.0,"Fayetteville, Arkansas",United States,F,Widowed,,
+Suleiman Kerimov & family,58.0,$10.7B,Finance & Investments,Gold,Senator,Russian Federation,True,,,"Moscow, Russia",Russia,M,Married,3.0,"Master of Economics, Dagestan State University"
+Meg Whitman,67.0,$3.1B,Technology,EBay,"business executive, diplomat, and politician ,",Republican Party,True,6.0,2.0,"Los Angeles, California",United States,F,Married,2.0,"Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Princeton University"
+"Amos Hostetter, Jr.",87.0,$3.5B,Media & Entertainment,Cable television,Chair,Pilot House Associates,True,7.0,5.0,"Boston, Massachusetts",United States,M,Married,3.0,"Bachelor of Arts/Science, Amherst College; Master of Business Administration, Harvard University"
+Sun Piaoyang,65.0,$8.8B,Healthcare,Pharmaceuticals,Chairman,Jiangsu Hengrui Medicine,True,,,"Lianyungang, China",China,M,Married,1.0,"Bachelor of Arts/Science, China Pharmaceutical University; Doctorate, Nanjing University"
+David Reuben,85.0,$9.6B,Real Estate,"Investments, real estate",Investor,,True,,,"London, United Kingdom",United Kingdom,M,Married,1.0,
+Li Jiaquan,60.0,$1.4B,Manufacturing,Chemicals,chairman,"Lomon Group,",True,,,"Chengdu, China",China,M,,,
+Dai Wenyuan & family,41.0,$1.6B,Technology,AI,chairman,"Beijing Fouth Paradigm Technology,",True,,,"Beijing, China",China,M,Married,,"Bachelor of Science, Shanghai Jiaotong University; Master of Science, Shanghai Jiaotong University"
+Liu Xiaodong,56.0,$1.6B,Manufacturing,Flavorings,artist,,True,,,"Shanghai, China",China,M,,,"Bachelor of Fine Arts, Central Academy of Fine Arts, Master of Fine Arts, Central Academy of Fine Arts"
+Vikram Lal & family,82.0,$6.7B,Automotive,Motorcycles,Founder and CEO,Eicher Motors,False,,,"Delhi, India",India,M,Married,3.0,"Bachelor of Science, Technische Universität Darmstadt"
+Dan Friedkin,59.0,$6.4B,Automotive,Toyota dealerships,owner and ceo,The Friedkin Group,False,4.0,3.0,"Houston, Texas",United States,M,Married,4.0,"Bachelor of Arts/Science, Georgetown University; Master of Business Administration, Rice University"
+Maria Angelicoussis,42.0,$6.4B,Logistics,Shipping,CEO and Owner,Angelicoussis Group,False,,,"Athens, Greece",Greece,F,Married,3.0,"Medical Doctor, Cambridge; University College London"
+Paolo Ardoino,,$3.9B,Finance & Investments,Cryptocurrency,"CEO, CTO","Tether, Bitfinex",True,,,,Italy,M,,,"Bachelor of Computer Science, Università degli Studi di Genova"
+Philippe Laffont,56.0,$6.1B,Finance & Investments,Hedge fund,Founder,Coatue Management,True,8.0,1.0,"New York, New York",United States,M,Married,,"Bachelor of Arts/Science, Massachusetts Institute of Technology; Master of Science, Massachusetts Institute of Technology"
+"Bernard Saul, II. & family",91.0,$2.6B,Finance & Investments,"Banking, real estate",Chairman and CEO,Saul Centers,False,5.0,,"Chevy Chase, Maryland",United States,M,Married,5.0,"Bachelor of Laws, University of Virginia; Bachelor of Arts/Science, Villanova University"
+Doris Fisher,92.0,$1.5B,Fashion & Retail,Gap,Co-founder,Gap Inc.,True,7.0,2.0,"San Francisco, California",United States,F,Widowed,3.0,"Bachelor of Arts/Science, Stanford University"
+Brian Acton,52.0,$3.1B,Technology,WhatsApp,Co-founder,WhatsApp Inc.,True,8.0,4.0,"Palo Alto, California",United States,M,Married,1.0,"Bachelor of Arts/Science, Stanford University"
+Reinold Geiger,76.0,$3B,Fashion & Retail,Beauty products,chairman and executive director,L'Occitane en Provence,True,,,"Geneva, Switzerland",Austria,M,Married,,"Master of Business Administration, INSEAD"
+J. Joe Ricketts & family,82.0,$3.8B,Finance & Investments,TD Ameritrade,former CEO and Chairman,TD Ameritrade,True,10.0,3.0,"Little Jackson Hole, Wyoming",United States,M,Married,4.0,"Bachelor of Arts/Science, Creighton University"
+Xue Hua,,$2.3B,Manufacturing,Agribusiness,cofounder and chairman,Guangdong Haid Group,True,,,"Guangzhou, China",China,M,,,"Bachelor of Arts/Science, Huazhong Agricultural University"
+Xie Juhua & family,73.0,$1.3B,Healthcare,Pharmaceuticals,Owner,Kingfriend,False,,,"Nanjing, China",China,F,Widowed,,
+Daniel Feffer,64.0,$1.5B,Manufacturing,Pulp and paper,Chairman,Brazilian branch of the International Chamber of Commerce.,False,,,"São Paulo, Brazil",Brazil,M,Married,,"Law Degree, Universidade Presbiteriana Mackenzie"
+Wan Long,83.0,$1.4B,Food & Beverage,Food,Executive director,WH Group,True,,,"Luohe, China",China,M,,,"Bachelor of Arts/Science, Henan Business College"
+Renata Kellnerova & family,56.0,$18B,Finance & Investments,"Finance, telecommunications",Owner,PPF Group,False,,,"Prague, Czech Republic",Czech Republic,F,Widowed,4.0,
+Tseng Cheng,62.0,$1.7B,Manufacturing,Petrochemicals,businessman,,False,,,"Taipei, Taiwan",Taiwan,M,Married,2.0,
+Ron Corio,62.0,$1.7B,Energy,Solar,"founder, former , CEO",Array Technologies,True,,,"Albuquerque, New Mexico",United States,M,Divorced,2.0,
+Martin Haefner,70.0,$5.4B,Technology,"Software, investments","entrepreneur, shareholder",Schmolz + Bickenbach,False,,,"Zurich, Switzerland",Switzerland,M,Married,,"Bachelor of Science, ETH Zurich"
+Mark Leonard & family,67.0,$4.3B,Technology,Software,President,Constellation Software,True,,,"Toronto, Canada",Canada,M,,,"Master of Business Administration, The University of Western Ontario - Richard Ivey School of Business; Bachelor of Arts/Science, University of Guelph"
+Qu Miranda,39.0,$1.3B,Fashion & Retail,E-commerce,President,Xiaohongshu,True,,,"Shanghai, China",China,F,,,"Bachelor of Arts/Science, Beijing Foreign Studies University"
+Ni Yongpei & family,72.0,$2.1B,Food & Beverage,Beverages,Chairman,"Anhui Yingjia Group Co., Ltd, Anhui Yingjia Distillery Co., Ltd",True,,,"Liuan, China",China,M,Married,,
+Jimmy Rane,77.0,$1.5B,Manufacturing,Lumber,"founder, chairman , chief executive officer",Great Southern Wood Preserving,True,,,"Abbeville, Alabama",United States,M,Married,3.0,"Bachelor of Arts/Science, Auburn University; Doctor of Jurisprudence, Samford University"
+Enrique Razon Jr.,64.0,$10B,Logistics,Ports,Chairman,"International Container Terminal Services, Bloomberry Resorts Corp. and Manila Water",False,,,"Manila, Philippines",Philippines,M,Married,2.0,"Bachelor of Science in Business Administration, De La Salle University"
+Viatcheslav Kantor,70.0,$9.8B,Manufacturing,"Fertilizer, real estate",Owner,Acron Group,True,,,"Herzliya, Israel",Russia,M,Married,5.0,"Doctorate, Moscow Aviation University"
+Radik Shaimiev,59.0,$2.2B,Energy,"Refinery, chemicals",Co-owner,TAIF Group,True,,,"Kazan, Russia",Russia,M,Married,2.0,"Master of Science in Engineering, Kazan Institute of Civil Engineering"
+Charles Liang,66.0,$6.1B,Technology,Computer hardware,President,Supermicro,True,,,"San Jose, California",United States,M,Married,,"Bachelor of Science in Engineering, National Taiwan University; Master of Science in Engineering, University Of Texas At Arlington"
+Harry Triguboff,91.0,$16.5B,Real Estate,Real estate,Managing Director,Meriton,True,,,"Sydney, Australia",Australia,M,Married,2.0,"Bachelor of Arts/Science, University of Leeds"
+Len Blavatnik,66.0,$32.1B,Diversified,"Music, chemicals",Founder,Access Industries,True,9.0,2.0,"London, United Kingdom",United States,M,Married,,"Master of Science, Columbia University; Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Moscow State University"
+Lawrence Golub,64.0,$2.2B,Finance & Investments,Private equity,CEO,Golub Capital,True,7.0,,"New York, New York",United States,M,,,"Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Harvard College; Doctor of Jurisprudence, Harvard Law School"
+Archie Aldis Emmerson & family,94.0,$5.4B,Manufacturing,"Timberland, lumber mills",founder,Sierra Pacific Industries,True,9.0,2.0,"Redding, California",United States,M,Married,3.0,"Diploma, High School"
+James Tisch,71.0,$1.3B,Diversified,Loews,CEO,Loews,False,,,"New York, New York",United States,M,,,"Bachelor of Arts, Cornell University, Master of Business Administration, University of Pennsylvania"
+Fan Daidi,58.0,$2.8B,Fashion & Retail,Skincare,"co-founder, chief scientific officer , dean","Giant Biogene Holding Co, Institute of Biomedical Research of Northwest University",True,,,"Xian, China",China,F,Married,,"Doctor of Philosophy, East China University of Science and Technology"
+Marianne Liebmann,70.0,$4.2B,Food & Beverage,Cargill,Heir,Cargill,False,1.0,1.0,"Bozeman, Montana",United States,F,Married,2.0,"Bachelor of Arts/Science, Montana State University"
+Ding Shizhong,53.0,$6.3B,Fashion & Retail,Sports apparel,Chairman,Anta Sports Products,True,,,"Quanzhou, China",China,M,Married,2.0,"Master of Business Administration, Xiamen University"
+Suman Munjal,71.0,$1.6B,Automotive,Motorcycles,chairman,leading auto Components Company Rockman Industries Ltd.,False,,,"Delhi, India",India,M,Married,,"Bachelor of Commerce, Punjab University"
+Faruk Eczacibasi,69.0,$1.3B,Diversified,"Pharmaceuticals, diversified",Vice Chairman,Eczacıbaşı Group,False,,,"Istanbul, Turkey",Turkey,M,Married,2.0,"Bachelor of Science, Technische Universität Berlin, Master of Business Administration, Technische Universität Berlin"
+Karl-Johan Persson,49.0,$1.6B,Fashion & Retail,H&M,Chairman and CEO,fashion company Hennes & Mauritz,False,,,"Stockholm, Sweden",Sweden,M,Married,2.0,"Bachelor of Arts/Science, London Business School"
+Rodney Sacks & family,74.0,$3.4B,Food & Beverage,Energy drinks,CEO,Monster Beverage,True,8.0,,"Laguna Beach, California",United States,M,,,"Law Degree, University of Witwatersrand"
+Hamdi Ulukaya,51.0,$2.3B,Food & Beverage,Greek yogurt,Founder and CEO,Chobani,True,,,"Norwich, New York",Turkey,M,Married,,"Master of Business Administration, SUNY Albany"
+Li Ge,57.0,$5.6B,Healthcare,Pharmaceutical ingredients,"Founder, Chairman, and CEO",WuXi AppTec,True,8.0,,"Shanghai, China",United States,M,Widowed,,"Doctorate, Columbia University"
+Georgi Domuschiev,51.0,$2.1B,Diversified,"Animal health, investments",co-owner,Bulgarian investment conglomerate Advance Properties,True,,,"London, United Kingdom",Bulgaria,M,,,"Bachelor of Science, University of National and World Economy"
+Michael Minhong Yu,62.0,$2.5B,Service,Education,"founder, president",New Oriental Education & Technology Group Inc.,True,,,"Beijing, China",China,M,Married,2.0,"Bachelor of Arts/Science, Peking University"
+Rahul Gautam,71.0,$1B,Fashion & Retail,Mattresses,,,False,,,"Delhi, India",India,M,Married,1.0,
+Ke Guihua,58.0,$1.2B,Manufacturing,Auto parts,chairman,Keboda Technology,True,,,"Shanghai, China",China,M,,,
+Patrizio Bertelli,78.0,$6.4B,Fashion & Retail,Luxury goods,Chairman and Former Co-CEO,Prada,True,,,"Milan, Italy",Italy,M,Married,2.0,"Master of Business Administration, University of Florence"
+Christoffel Wiese,82.0,$1.2B,Fashion & Retail,retail,Chairman,Shoprite Holdings,True,,,"Cape Town, South Africa",South Africa,M,Married,3.0,"Bachelor of Arts/Science, University of Stellenbosch; Bachelor of Laws, University of Stellenbosch"
+Alexander Gerko,44.0,$10.4B,Finance & Investments,Trading,CEO,XTX Markets,True,,,"London, United Kingdom",United Kingdom,M,Married,,"Master of Science, Moscow State University; Doctorate, Moscow State University; Master of Economics, New Economic School"
+Liang Guangwei,60.0,$1B,Manufacturing,Conglomerate,,,True,,,"Shenzhen, China",China,M,,,"Bachelor of Science, Shenzhen University"
+Erik Selin,56.0,$4.1B,Real Estate,Real estate,CEO,Fastighets AB Balder,True,,,"Göteborg, Sweden",Sweden,M,Divorced,,
+K. Dinesh,69.0,$2.5B,Technology,Software services,one of the seven co-founders of Infosys,-,True,,,"Bangalore, India",India,M,Married,2.0,"Master of Science, Bangalore University"
+Wang Laichun,56.0,$6.6B,Technology,Electronics components,Co-Founder & Chairwoman,Luxshare-ICT,True,,,"Shenzhen, China",Hong Kong,F,Married,,"Master of Business Administration, Tsinghua University"
+Brad Kelley,67.0,$2.7B,Real Estate,Tobacco,"businessman, 9th largest landowner",Calumet Farm,True,9.0,,"Franklin, Tennessee",United States,M,Married,3.0,"Diploma, High School; Drop Out, Western Kentucky University"
+Fredrik Lundberg,72.0,$8.2B,Real Estate,"Real estate, investments",CEO,L E Lundbergföretagen AB,False,,,"Stockholm, Sweden",Sweden,M,Married,2.0,"Bachelor of Arts/Science, Stockholm School of Economics"
+Neide Helena de Moraes,69.0,$1.5B,Diversified,Diversified,Heir,Grupo Votorantim,False,,,"Sao Paulo, Brazil",Brazil,F,Married,2.0,"Bachelor of Arts/Science, Universidade Presbiteriana Mackenzie"
+Wu Yulan,54.0,$1.5B,Healthcare,Pharmaceuticals,vice president,Jiangsu Hansoh Pharmaceutical Group,True,,,"Lianyungang, China",China,F,,,
+Jane Lauder,51.0,$3.3B,Fashion & Retail,Estée Lauder,"heiress and businesswoman, Chief data officer",Estée Lauder,False,4.0,,"New York, New York",United States,F,Married,,"Bachelor of Arts/Science, Stanford University"
+Michel Leclercq & family,84.0,$5B,Fashion & Retail,Sporting goods,Founder and Owner,Decathlon,False,,,"Lille, France",France,M,Married,4.0,
+Keiichi Shibahara,59.0,$1.4B,Healthcare,Healthcare,CEO,"Amvis Holdings, Inc.",True,,,"Tokyo, Japan",Japan,M,,,"Medical Doctor, Kyoto University"
+"Lamar Hunt, Jr. & family",67.0,$1.4B,Sports,Kansas City Chiefs,"president , owner",Kansas City Mavericks professional hockey team.,False,,,"Leawood, Kansas",United States,M,,,"Bachelor of Music, University of Cincinnati College-Conservatory of Music, Master of Arts, Dallas Baptist University"
+Gong Hongjia & family,59.0,$10.2B,Finance & Investments,Video surveillance,Ex-Co-founder,Hikvision,True,,,"Hong Kong, Hong Kong",Hong Kong,M,Married,2.0,"Bachelor of Arts/Science, Huazhong University of Science and Technology"
+James Chambers,66.0,$4B,Media & Entertainment,"Media, automotive","businessman, heir, renewable energy businessman, and filmmaker, 16.3% share","Cox Enterprise, Renewable energy",False,1.0,2.0,"Palisades, New York",United States,M,Married,2.0,"Bachelor of Arts/Science, Bard College"
+Chung Yong-jin,55.0,$1.2B,Fashion & Retail,Retail,Chairperson,Shinsegae,False,,,"Seoul, South Korea",South Korea,M,Married,4.0,"Bachelor of Arts/Science, Brown University"
+Adam Kwok,41.0,$2.2B,Real Estate,Real estate,Executive Director,Sun Hung Kai Properties,False,,,"Hong Kong, Hong Kong",Hong Kong,M,,,"Master of Business Administration, Harvard Business School; Bachelor of Science in Engineering, Stanford University"
+Lee Ho-jin,61.0,$1.6B,Diversified,Diversified,"former chairman, founder","Taekwang Group, Lee Im-yong",False,,,"Seoul, South Korea",South Korea,M,Married,2.0,"Master of Business Administration, Samuel Curtis Johnson Graduate School of Management; Bachelor of Arts/Science, Seoul National University"
+Michael Rees,49.0,$1.7B,Finance & Investments,Private equity,"businessman, co-founder, co-president",Blue Owl Capital.,True,,,"New Canaan, Connecticut",United States,M,Married,2.0,"Master of Arts/Science, Massachusetts Institute of Technology; Bachelor of Arts/Science, University of Pittsburgh"
+Giuliana Benetton,86.0,$3.4B,Fashion & Retail,"Fashion retail, investments","businesswoman, one of the co-founders",Benetton Group,True,,,"Treviso, Italy",Italy,F,Widowed,4.0,
+Laurence Graff & family,85.0,$3.4B,Fashion & Retail,Diamond jewelry,"jeweller and businessman,founder",Graff Diamonds,True,,,"Gstaad, Switzerland",United Kingdom,M,Divorced,5.0,
+Wang Jianyi,61.0,$1.1B,Technology,Fiber optic cables,founder and chairman,Futong Group,True,,,"Hangzhou, China",China,M,Married,,"Associate in Arts/Science, Zhejiang University of Technology"
+Cristina Green,74.0,$1.2B,Fashion & Retail,Fashion retail,Owner,Arcadia Group,True,,,"London, United Kingdom",United Kingdom,F,Married,2.0,
+Mark Scheinberg,50.0,$5.6B,Gambling & Casinos,Online gambling,Co-founder and former co-owner,PokerStars,True,8.0,,"Isle of Man, United Kingdom",Canada,M,Single,,"Drop Out, Fanshawe College"
+Artur Grynbaum,55.0,$1.4B,Fashion & Retail,Cosmetics,Entrepreneur,,True,,,"Curitiba, Brazil",Brazil,M,Single,,"Bachelor of Science, FAE Centro Universitário"
+Zhou Junjie,55.0,$1B,Manufacturing,equipment,Chairperson,Yindu Kitchen Equipment,True,,,"Hangzhou, China",China,M,Married,,
+Anne Beaufour,60.0,$2.7B,Healthcare,Pharmaceuticals,"businesswoman, descendant, founder","Henri Beaufour, Beaufour laboratories",False,,,United Kingdom,France,F,Married,,"Bachelor of Science, University of Paris-Sud"
+Sami Mnaymneh,62.0,$5.1B,Finance & Investments,Private equity,Co-founder and CEO,H.I.G,True,8.0,1.0,"Miami Beach, Florida",United States,M,,,"Bachelor of Arts/Economics, Columbia University; Master of Business Administration, Harvard Business School; Doctor of Jurisprudence, Harvard University"
+Lisa Su,54.0,$1.3B,Technology,Semiconductors,CEO,AMD,True,6.0,,"Austin, Texas",United States,F,,,"Bachelor of Engineering, Massachusetts Institute of Technology; Master of Science in Engineering, Massachusetts Institute of Technology; Doctorate, Massachusetts Institute of Technology"
+Wei Yin-Chun,67.0,$1.8B,Food & Beverage,"Food, beverages",businessman,Taiwanese,True,,,"Taipei, Taiwan",Taiwan,M,Married,4.0,
+Kenneth Tuchman,64.0,$1.1B,Service,Call centers,"founder, CEO and chairman",TeleTech,True,8.0,1.0,"Denver, Colorado",United States,M,Married,2.0,
+Zhou Chaonan,63.0,$2.8B,Manufacturing,manufacturing,chairman,Range Intelligent Computing Technology Group,True,,,"Langfang, China",China,F,,,
+Abhay Firodia,79.0,$4.3B,Automotive,Automobiles,chairman,Force Motors,False,,,"Pune, India",India,M,Married,4.0,
+Wang Chaobin,68.0,$1.7B,Real Estate,Real estate,"chairman, owner","Zhonglu Group, central Chinese city of Zhengzhou.",True,,,"Zhengzhou, China",China,M,,,
+Jean Coutu & family,96.0,$3.3B,Fashion & Retail,Drugstores,Chairman,Jean Coutu Group (PJC) Inc. (Cl A),True,,,"Montreal, Canada",Canada,M,Married,5.0,"Bachelor of Science, Université de Montréal, Bachelor of Science, Université de Montréal"
+Rajiv Jain,56.0,$4.2B,Finance & Investments,Finance,"Former Director, Chairman and Chief Investment Officer","Intelligence Bureau of India, GQG Partners",True,8.0,1.0,"Fort Lauderdale, Florida",United States,M,,,"Master of Business Administration, University of Miami; Bachelor of Arts/Science, University of Panjab"
+Miao Hangen,59.0,$3.8B,Diversified,"Textiles, petrochemicals",Chairman,Eastern Shenghong,True,,,"Suzhou, China",China,M,,,
+Marina Budiman,62.0,$1B,Technology,Data centers,cofounder and president commissioner,DCI Indonesia,True,,,"Jakarta, Indonesia",Indonesia,F,Married,,"Bachelor of Arts/Economics, University of Toronto"
+Juergen Blickle,77.0,$7.4B,Manufacturing,Auto parts,Managing Partner,Sew-eurodrive,False,,,"Bruchsal, Germany",Germany,M,Married,,
+Steve Wynn,82.0,$3.4B,Gambling & Casinos,"Casinos, hotels",Co-founder,Wynn Resorts,True,8.0,1.0,"Palm Beach, Florida",United States,M,Married,2.0,"Bachelor of Arts/Science, University of Pennsylvania"
+Igor Bukhman,42.0,$9B,Media & Entertainment,Online games,Co-Founder,Playrix,True,,,"London, United Kingdom",Israel,M,Married,4.0,"Master of Science, Vologda State Pedagogical University"
+Erman Ilicak,56.0,$2.7B,Construction & Engineering,Construction,"businessman, president",Rönesans Holding,True,,,"Ankara, Turkey",Turkey,M,Married,3.0,"Bachelor of Science, Middle East Technical University, Master of Business Administration, Vienna University of Economics and Business, Master of Business Administration, University of Minnesota, Doctor of Philosophy, International School of Management Paris"
+Dustin Moskovitz,39.0,$18.3B,Technology,Facebook,Co-founder,Asana,True,8.0,4.0,"San Francisco, California",United States,M,Married,,"Drop Out, Harvard University"
+Hilton Schlosberg & family,71.0,$3.4B,Food & Beverage,Energy drinks,"businessman, vice chairman, president, and chief operating officer",Monster Beverage,True,,,"Irvine, California",United Kingdom,M,,,
+Daniel Kretinsky,48.0,$9.4B,Energy,"Energy, investments",CEO,Energeticky a prumyslovy holding,True,,,"Prague, Czech Republic",Czech Republic,M,In Relationship,1.0,"Law Degree, Masaryk University"
+Steve Cohen,67.0,$19.8B,Finance & Investments,Hedge funds,Founder,Point72 Asset Management,True,8.0,3.0,"Greenwich, Connecticut",United States,M,Married,7.0,"Bachelor of Arts/Science, University of Pennsylvania, The Wharton School"
+John Morris,76.0,$9.5B,Fashion & Retail,Sporting goods retail,Founder and CEO,Bass Pro Shops,True,9.0,3.0,"Springfield, Missouri",United States,M,Married,4.0,"Bachelor of Arts/Science, Drury University"
+Hans Melchers,85.0,$2.7B,Finance & Investments,"Chemicals, investments",Founder,Melchemie Holland BV,True,,,"Vorden, Netherlands",Netherlands,M,Married,2.0,
+Li Min,58.0,$1.4B,Technology,Semiconductor,former Chinese politician,,True,,,"Fuzhou, China",China,M,,,
+John Oyler,56.0,$1B,Healthcare,Biotech,"co-founder, chairman, and CEO",BeiGene,True,,,Nevada,United States,M,Married,,"Bachelor of Arts/Science, Massachusetts Institute of Technology; Master of Business Administration, Stanford Graduate School of Business"
+Wang Wenmo,67.0,$1.7B,Fashion & Retail,Sports apparel,non-executive director,Anta Sports,True,,,"Quanzhou, China",China,M,,,"Bachelor of Science, Hong Kong Polytechnic University"
+Mario Moretti Polegato & family,71.0,$1.4B,Fashion & Retail,Shoes,entrepreneur,,True,,,"Crocetta del Montello, Italy",Italy,M,Married,1.0,
+Harley Sy,64.0,$2.4B,Diversified,Diversified,Executive director,SM Investments Corporation,False,,,"Manila, Philippines",Philippines,M,Married,,"Bachelor of Science, De La Salle University"
+Ulrike Baro,74.0,$2.6B,Healthcare,Biopharmaceuticals,stake,Biopharmaceuticals,False,,,"Munich, Germany",Germany,F,,,"Bachelor of Science, Technical University of Berlin"
+Andrei Krivenko,48.0,$1.5B,Food & Beverage,Retail,founder,VkusVill,True,,,"Moscow, Russia",Russia,M,Married,4.0,"Master of Science, Moscow Institute of Physics and Technology"
+Stephane Bonvin,57.0,$1.1B,Real Estate,Real estate,Founder,Investis,True,,,"Lens, Switzerland",Switzerland,M,,,
+Vladislav Sviblov,44.0,$1.1B,Metals & Mining,Mining,"Russian businessperson, former executive",PIK Group,True,,,"Moscow, Russia",Russia,M,,,"Master of Economics, Moscow State University of Economics, Statistics, and Informatics"
+Ivan Zhao,37.0,$1.5B,Technology,Software,"CEO , original founder",productivity software company Notion,True,,,"San Francisco, California",Canada,M,,,"Bachelor of Science, University of British Columbia"
+Heloise Pratt,61.0,$1.9B,Manufacturing,"Manufacturing, investment",,,False,,,"Melbourne, Australia",Australia,F,Divorced,3.0,"Bachelor of Laws and Commerce, Monash University"
+Cho Jung-ho,65.0,$6.3B,Finance & Investments,Finance,Chairman,Meritz Financial Group,False,,,"Seoul, South Korea",South Korea,M,Married,3.0,"Master of Business Administration, IMD; Bachelor of Arts/Science, University of Southern California"
+Ma Jianrong,60.0,$6.3B,Fashion & Retail,"Textiles, apparel",Founder,Shenzhou International Group Holdings Limited,True,,,"Ningbo, China",China,M,Married,,
+Lu Zhongfang,81.0,$1B,Automotive,Education,,,True,,,"Tonghua, China",China,F,,,
+George Soros,93.0,$6.7B,Finance & Investments,Hedge funds,Founder,Soros Fund Management LLC,True,10.0,5.0,"Katonah, New York",United States,M,Married,5.0,"Bachelor of Arts/Science, London School of Economics"
+Su Hua,42.0,$2.8B,Media & Entertainment,Video streaming,"internet entrepreneur, co-founder and CEO",video platform Kuaishou,True,,,"Beijing, China",China,M,,,"Bachelor of Science, Tsinghua University"
+Eugene Murtagh,81.0,$2.8B,Manufacturing,Building materials,"businessman, founder and chairman",Kingspan Group,True,,,"Kingscourt, Ireland",Ireland,M,Widowed,5.0,
+Scott Watterson,68.0,$1B,Technology,Fitness equipment,"CEO, iFIT's Chairman",Icon Health & Fitness,True,8.0,,"Logan, Utah",United States,M,Married,5.0,"Bachelor of Science, Utah State University"
+David Walentas,85.0,$2.3B,Real Estate,Real estate,Chairman,Two Trees Management,True,10.0,1.0,"New York, New York",United States,M,Widowed,1.0,"Bachelor of Arts/Science, University of Virginia"
+Zygmunt Solorz,67.0,$2.1B,Media & Entertainment,TV broadcasting,"businessman, media tycoon, controlled","Polsat, Cyfrowy Polsat, Polkomtel, Netia, Elektrim and Interia",True,,,"Warsaw, Poland",Poland,M,Divorced,3.0,
+Xue Xiangdong & family,65.0,$1.5B,Technology,Software,Chairman,Shenzhen-listed DHC Software,True,,,"Beijing, China",China,M,Married,,"Bachelor of Arts/Science, Hunan University"
+Wolfgang Reimann,71.0,$5.6B,Fashion & Retail,Consumer goods,Heir,JAB Holding Company,False,,,"Passau, Germany",Germany,M,,,
+Vera Rechulski Santo Domingo,75.0,$1.1B,Food & Beverage,Beer,,,False,,,Bermuda,Brazil,F,Widowed,2.0,
+Rick Caruso,65.0,$5.3B,Real Estate,Real estate,Founder and Executive Chairman,Caruso,True,7.0,2.0,"Los Angeles, California",United States,M,Married,4.0,"Doctor of Jurisprudence, Pepperdine University; Bachelor of Arts/Science, University of Southern California"
+Chu Mang Yee & family,64.0,$1.7B,Real Estate,Real estate,Real Estate Developer,,True,,,"Guangzhou, China",China,M,Married,1.0,
+Jim Davis & family,80.0,$5.9B,Manufacturing,New Balance,Chairman,New Balance,True,8.0,2.0,"Newton, Massachusetts",United States,M,Married,2.0,"Bachelor of Arts/Science, Middlebury College"
+Bill Haslam,65.0,$5.1B,Fashion & Retail,Gas stations,"businessman and politician, 67th mayor","Republican Party, Knoxville",False,3.0,1.0,"Knoxville, Tennessee",United States,M,Married,3.0,"Bachelor of Arts/Science, Emory University"
+Yoshiaki Yoshida,83.0,$1.4B,Fashion & Retail,Cosmetics,CEO,Daigaku Honyaku Center,True,,,"Urayasu, Japan",Japan,M,,,
+Senapathy Gopalakrishnan,69.0,$3.5B,Technology,Software services,Co-founder and former CEO,Infosys,True,,,"Bangalore, India",India,M,Married,1.0,"Master of Science, Indian Institute of Technology"
+Ruan Hongliang,63.0,$3.1B,Manufacturing,Glass,chairs,Flat Glass Group,True,,,"Jiaxing, China",China,M,Married,,
+Andreas Pohl,59.0,$2.4B,Finance & Investments,Mutual funds,CEO,Deutsche Vermoegensberatung,False,,,"Marburg, Germany",Germany,M,Married,3.0,
+Li Jinyang,,$1.1B,Metals & Mining,Mining,shareholder,Chifeng Jilong Gold Mining,False,,,"Chifeng, China",China,F,Widowed,,
+Manas Chiaravanond,68.0,$1.8B,Diversified,Diversified,founder,APSA,False,,,"Bangkok, Thailand",Thailand,M,,,"Master of Business Administration, California State University, Sacramento; B.Com, Eastern Kentucky University"
+Anil Gupta,64.0,$1.4B,Manufacturing,Cables,philosopher,"logic, epistemology",False,,,"New Delhi, India",India,M,Married,1.0,"Bachelor of Science, University of London, Doctor of Philosophy, University of Pittsburgh"
+Krit Ratanarak,77.0,$1.5B,Media & Entertainment,"Media, real estate",Former Member,Senate of Thailand,False,,,"Bangkok, Thailand",Thailand,M,Divorced,1.0,
+Howard Schultz,70.0,$3.1B,Food & Beverage,Starbucks,"businessman and author , Former CEO",Starbucks,True,10.0,3.0,"Seattle, Washington",United States,M,Married,2.0,"Bachelor of Arts/Science, Northern Michigan University"
+Richard Kayne,78.0,$1.3B,Finance & Investments,Investments,owner,Kayne Anderson Capital Advisers,True,,,"Santa Monica, California",United States,M,Married,3.0,"Bachelor of Arts/Science, Stanford University; Master of Business Administration, University of California, Los Angeles"
+David Zalik,50.0,$1.8B,Technology,Financial technology,CEO,GreenSky,True,8.0,3.0,"Atlanta, Georgia",United States,M,Married,3.0,"Drop Out, Auburn University"
+Huijiao Yu,58.0,$1.7B,Logistics,Package delivery,Founder and Chairman,Shanghai YTO Express (Logistics),True,,,"Shanghai, China",China,M,Married,,"Bachelor of Science, PLA Information Engineering University"
+Subbamma Jasti,91.0,$1.1B,Healthcare,Pharmaceuticals,Swedish interior designer,,False,,,"Hyderabad, India",India,F,Widowed,,
+Yang Ying & family,61.0,$1.1B,Healthcare,pharmaceuticals,director,Chinese drugmaker Xiamen Amoytop Biotech,True,,,"Xiamen, China",China,F,Married,,
+Maria-Elisabeth Schaeffler-Thumann,82.0,$2.7B,Automotive,Auto parts,Owner,Schaeffler Group,False,,,"Herzogenaurach, Germany",Germany,F,Married,,
+Jeffrey Michael & family,67.0,$1.5B,Technology,Data management,Founder,investor of healthcare technology company CorVel Corporation.,True,,,"Minnetonka, Minnesota",United States,M,Married,4.0,
+Maxim Shubarev,55.0,$1.4B,Real Estate,Real Estate,"president , Chairman","Setl Group holding, Self-Regulatory Organization ""Association of Builders of St. Petersburg.""",True,,,"Saint Petersburg, Russia",Russia,M,Married,3.0,"Master of Science in Engineering, Peter the Great St. Petersburg Polytechnic University"
+Daniel Ek,41.0,$4.2B,Technology,Spotify,CEO,Spotify,True,,,"Stockholm, Sweden",Sweden,M,Married,2.0,
+David Bonderman,81.0,$6.4B,Finance & Investments,Private equity,Co-Founder,TPG Capital,True,7.0,2.0,"Fort Worth, Texas",United States,M,Married,5.0,"Doctor of Jurisprudence, Harvard University; Bachelor of Arts/Science, University of Washington"
+LeBron James,39.0,$1.2B,Sports,Basketball,Athlete,NBA,True,10.0,,"Los Angeles, California",United States,M,Married,3.0,
+Jack Dangermond,78.0,$9.7B,Technology,Mapping software,CEO,ESRI,True,8.0,2.0,"Redlands, California",United States,M,Married,,"Bachelor of Arts/Science, California State Polytechnical University; Master of Science, Harvard University; Master of Science, University of Minnesota"
+Radhe Shyam Agarwal,79.0,$1.4B,Fashion & Retail,consumer goods,"co-founder , executive chairman","Emami, a global group of company engaged in the business of FMCG",True,,,"Kolkata, India",India,M,Married,3.0,"Bachelor of Laws, Calcutta University; M.Com, Calcutta University; Chartered Accountant, Institute of Chartered Accountants of India; Company Secretary, Institute of Company Secretaries of India"
+Stefan Persson,76.0,$16.6B,Fashion & Retail,H&M,Chairman,Hennes & Mauritz Unsponsored ADR,False,,,"Stockholm, Sweden",Sweden,M,Married,3.0,"Associate in Arts/Science, University of Stockholm"
+John de Mol,69.0,$1.8B,Media & Entertainment,TV programs,media proprietor,Dutch,True,,,"Blaricum, Netherlands",Netherlands,M,Single,1.0,
+Hasso Plattner & family,80.0,$12.1B,Technology,Software,Co-founder,SAP SE,True,,,"Heidelberg, Germany",Germany,M,Married,2.0,"Master of Science, University of Karlsruhe"
+Li Liangbin,56.0,$1.8B,Manufacturing,Lithium,chairman,Jiangxi Ganfeng Lithium,True,,,"Xinyu, China",China,M,,,"Master of Business Administration, Renmin University of China"
+Nicky Oppenheimer & family,78.0,$9.5B,Metals & Mining,Diamonds,Ex-Founder,De Beers diamond mining company,False,,,"Johannesburg, South Africa",South Africa,M,Married,1.0,"Bachelor of Arts/Science, Oxford U Christ Church; Master of Arts, Oxford U Christ Church"
+Christine Franken & family,79.0,$2.5B,Healthcare,Biopharmaceuticals,daughters of Horst Sartorius,Sartorius AG,False,,,"Bovenden, Germany",Germany,F,,,
+Daniel Pritzker,64.0,$2.6B,Finance & Investments,"Hotels, investments","heir, musician, film director, and member",Pritzker family,False,1.0,2.0,"Marin County, California",United States,M,Married,5.0,"Doctor of Jurisprudence, Northwestern University; Bachelor of Arts/Science, Tufts University"
+Swift Xie,44.0,$1.4B,Technology,Drones,Chief Marketing Officer,DJI Technology Co.,True,,,"Shenzhen, China",China,M,,,
+Romesh T. Wadhwani,76.0,$5.1B,Technology,Software,Founder and Chairman,Symphony Technology Group,True,8.0,2.0,"Palo Alto, California",United States,M,Married,1.0,"Doctorate, Carnegie Mellon University; Master of Science, Carnegie Mellon University; Bachelor of Arts/Science, Indian Institute of Technology, Bombay"
+Tope Awotona,42.0,$1.4B,Technology,Software,CEO,Calendly,True,,,"Atlanta, Georgia",United States,M,Married,,"Bachelor of Business Administration, The University Of Georgia"
+Tiger Woods,48.0,$1.3B,Sports,Golf,Athlete,PGA,True,,,"Jupiter Island, Florida",United States,M,,,Stanford University
+J. Wayne Weaver,88.0,$1.2B,Diversified,Shoes,businessman,Shoe Carnival,True,,,"Jacksonville, Florida",United States,M,Married,2.0,"Bachelor of Science, University of Florida"
+Sylvia Stroeher,68.0,$2.4B,Fashion & Retail,Cosmetics,businessman,Cosmetics,False,,,"Darmstadt, Germany",Germany,F,Married,1.0,
+Ted Alfond,79.0,$3.1B,Fashion & Retail,Shoes,"businessman, part owner",Boston Red Sox,False,1.0,,"Weston, Massachusetts",United States,M,Married,3.0,"Bachelor of Arts/Science, Rollins College"
+Shiv Kishan Agrawal,83.0,$1.7B,Food & Beverage,Snacks,founder,Haldiram's,False,,,"Nagpur, India",India,M,Married,3.0,
+Lim Chai Hock,64.0,$1.4B,Energy,Coal,"chief operating officer ,director","Bayan Resources,",True,,,"Jakarta, Indonesia",Malaysia,M,,,
+Joe Lewis,87.0,$6.3B,Finance & Investments,Investments,Former Chairman,Tavistock Group,True,,,"Orlando, Florida",United Kingdom,M,Married,2.0,
+Qiu Jianping & family,62.0,$2.9B,Manufacturing,Hand tools,chairman,Hangzhou GreatStar Industrial,True,,,"Hangzhou, China",China,M,Married,,"Master of Science, Xi'an Jiaotong University"
+Georg Stumpf,51.0,$12.6B,Diversified,"Real estate, construction",Founder,Stumpf Group,True,,,"Vienna, Austria",Austria,M,In Relationship,,"Master of Business Administration, Vienna University of Economics and Business"
+Wang Jilei,59.0,$1.2B,Logistics,Logistics,Director,ZTO Express,True,,,"Shanghai, China",China,M,,,
+Anand Deshpande,61.0,$2.3B,Technology,Technology,"Founder, Chairman, Managing Director",Persistent Systems,True,,,"Pune, India",India,M,Married,2.0,"Bachelor of Technology, Indian Institute of Technology (IIT) Kharagpur, India; Doctorate, Indiana University - Bloomington"
+Joe Gebbia,42.0,$9.7B,Technology,Airbnb,Co-founder,Airbnb,True,8.0,2.0,"Austin, Texas",United States,M,In Relationship,,"Bachelor of Arts/Science, Rhode Island School of Design"
+Yasuhiro Fukushima,76.0,$1.5B,Media & Entertainment,Video games,founder,"gaming software firm Enix,",True,,,"Tokyo, Japan",Japan,M,Married,,"Bachelor of Arts/Science, Nihon University"
+Boris Zingarevich,64.0,$2.1B,Diversified,"Pulp and paper, diversified",Russian entrepreneur and investor,,True,,,"Saint Petersburg, Russia",Russia,M,Married,2.0,"Master of Science, Leningrad Technological Institute of Pulp and Paper Industry"
+Anand Surana,53.0,$1.2B,Healthcare,Pharmaceuticals,Director,pharma company Micro Labs,False,,,"Bangalore, India",India,M,Married,3.0,"Bachelor of Commerce, Bangalore University"
+Andrew Forrest & family,62.0,$19B,Metals & Mining,Mining,Founder,Fortescue Metals Group,True,,,"Perth, Australia",Australia,M,Separated,3.0,"Bachelor of Arts/Science, University of Western Australia; Doctorate, University of Western Australia"
+Richard White,69.0,$8.2B,Technology,Software,CEO and Founder,WiseTech Global,True,,,"Sydney, Australia",Australia,M,,2.0,"Master of Business Administration, University of Technology, Sydney"
